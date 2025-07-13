@@ -6,6 +6,8 @@ My collections of wallpapers.
 
 --Also drop a star if you like them, it'll help inflate my ego :)
 
+### PREVIEWS
+
 ## Autmn
 
 <table>
