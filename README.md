@@ -44,17 +44,17 @@ My collections of wallpapers.
   <tr>
     <td><img src="Everforest/mount.jpg" alt="mount" width="300"/></td>
     <td><img src="Everforest/nearmoss.png" alt="nearmoss" width="300"/></td>
-    <td><img src="Everforest/polyscape_1.png" alt="polyscape_1" width="300"/></td>
+    <td><img src="Everforest/pale-blossoms.jpg" alt="pale-blossoms" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Everforest/polyscape_1.png" alt="polyscape_1" width="300"/></td>
     <td><img src="Everforest/samurai_bebop.png" alt="samurai_bebop" width="300"/></td>
     <td><img src="Everforest/shed.png" alt="shed" width="300"/></td>
-    <td><img src="Everforest/stairs.jpg" alt="stairs" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Everforest/stairs.jpg" alt="stairs" width="300"/></td>
     <td><img src="Everforest/street.jpg" alt="street" width="300"/></td>
     <td><img src="Everforest/wasteland.jpg" alt="wasteland" width="300"/></td>
-    <td><img src="Autmn/pale-blossoms.jpg" alt="pale-blossoms" width="300"/></td>
   </tr>
 </table>
 
@@ -99,7 +99,6 @@ My collections of wallpapers.
   <tr>
     <td><img src="Autmn/train.jpg" alt="train" width="300"/></td>
     <td><img src="Autmn/trn.jpg" alt="trn" width="300"/></td>
-    <td></td>
   </tr>
 </table>
 
@@ -134,8 +133,6 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Graphite/wallhaven-ogx5y9.jpg" alt="wallhaven-ogx5y9" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -194,8 +191,6 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -245,7 +240,6 @@ My collections of wallpapers.
   <tr>
     <td><img src="Gruvbox/satellite.jpg" alt="satellite" width="300"/></td>
     <td><img src="Gruvbox/solar-system.jpg" alt="solar-system" width="300"/></td>
-    <td></td>
   </tr>
 </table>
 
@@ -350,8 +344,6 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Inazuma/sumerupond.jpeg" alt="sumerupond" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -381,7 +373,6 @@ My collections of wallpapers.
   <tr>
     <td><img src="Kanagawa/wayytooblue.jpg" alt="wayytooblue" width="300"/></td>
     <td><img src="Kanagawa/wldgta.jpg" alt="wldgta" width="300"/></td>
-    <td></td>
   </tr>
 </table>
 
@@ -400,9 +391,5 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Oxocarbon/tgnnq2.jpg" alt="tgnnq2" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
-
-
