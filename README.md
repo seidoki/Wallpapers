@@ -8,62 +8,52 @@ My collections of wallpapers.
 
 ### PREVIEWS
 
-## Catppuccin
+## Everforest
 
 <table>
   <tr>
-    <td><img src="Catppuccin/boat_abondoned.jpg" alt="boat_abondoned" width="300"/></td>
-    <td><img src="Catppuccin/bubbles.png" alt="bubbles" width="300"/></td>
-    <td><img src="Catppuccin/cat_leaves.png" alt="cat_leaves" width="300"/></td>
+    <td><img src="Everforest/berries.png" alt="berries" width="300"/></td>
+    <td><img src="Everforest/bikeal.jpg" alt="bikeal" width="300"/></td>
+    <td><img src="Everforest/cabin.jpg" alt="cabin" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/cat_pacman.png" alt="cat_pacman" width="300"/></td>
-    <td><img src="Catppuccin/cloudsnight.jpg" alt="cloudsnight" width="300"/></td>
-    <td><img src="Catppuccin/ctlady.png" alt="ctlady" width="300"/></td>
+    <td><img src="Everforest/cityskyshot.jpg" alt="cityskyshot" width="300"/></td>
+    <td><img src="Everforest/citytower.jpg" alt="citytower" width="300"/></td>
+    <td><img src="Everforest/coffee_cherries.jpg" alt="coffee_cherries" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/dark-cat.png" alt="dark-cat" width="300"/></td>
-    <td><img src="Catppuccin/Evening_sky.png" alt="Evening_sky" width="300"/></td>
-    <td><img src="Catppuccin/flowers-1.jpg" alt="flowers-1" width="300"/></td>
+    <td><img src="Everforest/dalley.jpg" alt="dalley" width="300"/></td>
+    <td><img src="Everforest/everarch.jpg" alt="everarch" width="300"/></td>
+    <td><img src="Everforest/EverWitch.jpg" alt="EverWitch" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/flowers-2.jpg" alt="flowers-2" width="300"/></td>
-    <td><img src="Catppuccin/grleye.png" alt="grleye" width="300"/></td>
-    <td><img src="Catppuccin/hanged_man_catppu.jpg" alt="hanged_man_catppu" width="300"/></td>
+    <td><img src="Everforest/fern.jpg" alt="fern" width="300"/></td>
+    <td><img src="Everforest/flowers.png" alt="flowers" width="300"/></td>
+    <td><img src="Everforest/forest-mountain-cloudy-valley.png" alt="forest-mountain-cloudy-valley" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/hanged_man_tree.jpg" alt="hanged_man_tree" width="300"/></td>
-    <td><img src="Catppuccin/joyboy-cattp.png" alt="joyboy-cattp" width="300"/></td>
-    <td><img src="Catppuccin/kaiju.png" alt="kaiju" width="300"/></td>
+    <td><img src="Everforest/forest.jpg" alt="forest" width="300"/></td>
+    <td><img src="Everforest/forestpath.jpg" alt="forestpath" width="300"/></td>
+    <td><img src="Everforest/green.jpeg" alt="green" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/kurzgesagt_blackhole.png" alt="kurzgesagt_blackhole" width="300"/></td>
-    <td><img src="Catppuccin/math.png" alt="math" width="300"/></td>
-    <td><img src="Catppuccin/petals.jpg" alt="petals" width="300"/></td>
+    <td><img src="Everforest/leaves-wall.png" alt="leaves-wall" width="300"/></td>
+    <td><img src="Everforest/middleofnowhere.jpg" alt="middleofnowhere" width="300"/></td>
+    <td><img src="Everforest/mist_forest_1.png" alt="mist_forest_1" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/pixel-earth.png" alt="pixel-earth" width="300"/></td>
-    <td><img src="Catppuccin/rain_world_1.png" alt="rain_world_1" width="300"/></td>
-    <td><img src="Catppuccin/rain_world.png" alt="rain_world" width="300"/></td>
+    <td><img src="Everforest/mount.jpg" alt="mount" width="300"/></td>
+    <td><img src="Everforest/nearmoss.png" alt="nearmoss" width="300"/></td>
+    <td><img src="Everforest/polyscape_1.png" alt="polyscape_1" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/rebellious_tower.png" alt="rebellious_tower" width="300"/></td>
-    <td><img src="Catppuccin/sh2-p.png" alt="sh2-p" width="300"/></td>
-    <td><img src="Catppuccin/solar-system.jpg" alt="solar-system" width="300"/></td>
+    <td><img src="Everforest/samurai_bebop.png" alt="samurai_bebop" width="300"/></td>
+    <td><img src="Everforest/shed.png" alt="shed" width="300"/></td>
+    <td><img src="Everforest/stairs.jpg" alt="stairs" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/space.jpg" alt="space" width="300"/></td>
-    <td><img src="Catppuccin/switch_swirl.jpg" alt="switch_swirl" width="300"/></td>
-    <td><img src="Catppuccin/trncrs.jpg" alt="trncrs" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/wallhaven-gpgyw3.jpg" alt="wallhaven-gpgyw3" width="300"/></td>
-    <td><img src="Catppuccin/wcatppmnt.png" alt="wcatppmnt" width="300"/></td>
-    <td><img src="Catppuccin/windows-error.jpg" alt="windows-error" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="300"/></td>
-    <td></td>
+    <td><img src="Everforest/street.jpg" alt="street" width="300"/></td>
+    <td><img src="Everforest/wasteland.jpg" alt="wasteland" width="300"/></td>
     <td></td>
   </tr>
 </table>
@@ -119,56 +109,6 @@ My collections of wallpapers.
 </table>
 
 
-## Everforest
-
-<table>
-  <tr>
-    <td><img src="Everforest/berries.png" alt="berries" width="300"/></td>
-    <td><img src="Everforest/bikeal.jpg" alt="bikeal" width="300"/></td>
-    <td><img src="Everforest/cabin.jpg" alt="cabin" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/cityskyshot.jpg" alt="cityskyshot" width="300"/></td>
-    <td><img src="Everforest/citytower.jpg" alt="citytower" width="300"/></td>
-    <td><img src="Everforest/coffee_cherries.jpg" alt="coffee_cherries" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/dalley.jpg" alt="dalley" width="300"/></td>
-    <td><img src="Everforest/everarch.jpg" alt="everarch" width="300"/></td>
-    <td><img src="Everforest/EverWitch.jpg" alt="EverWitch" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/fern.jpg" alt="fern" width="300"/></td>
-    <td><img src="Everforest/flowers.png" alt="flowers" width="300"/></td>
-    <td><img src="Everforest/forest-mountain-cloudy-valley.png" alt="forest-mountain-cloudy-valley" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/forest.jpg" alt="forest" width="300"/></td>
-    <td><img src="Everforest/forestpath.jpg" alt="forestpath" width="300"/></td>
-    <td><img src="Everforest/green.jpeg" alt="green" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/leaves-wall.png" alt="leaves-wall" width="300"/></td>
-    <td><img src="Everforest/middleofnowhere.jpg" alt="middleofnowhere" width="300"/></td>
-    <td><img src="Everforest/mist_forest_1.png" alt="mist_forest_1" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/mount.jpg" alt="mount" width="300"/></td>
-    <td><img src="Everforest/nearmoss.png" alt="nearmoss" width="300"/></td>
-    <td><img src="Everforest/polyscape_1.png" alt="polyscape_1" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/samurai_bebop.png" alt="samurai_bebop" width="300"/></td>
-    <td><img src="Everforest/shed.png" alt="shed" width="300"/></td>
-    <td><img src="Everforest/stairs.jpg" alt="stairs" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/street.jpg" alt="street" width="300"/></td>
-    <td><img src="Everforest/wasteland.jpg" alt="wasteland" width="300"/></td>
-    <td></td>
-  </tr>
-</table>
-
 ## Graphite
 
 <table>
@@ -199,6 +139,66 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Graphite/wallhaven-ogx5y9.jpg" alt="wallhaven-ogx5y9" width="300"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+## Catppuccin
+
+<table>
+  <tr>
+    <td><img src="Catppuccin/boat_abondoned.jpg" alt="boat_abondoned" width="300"/></td>
+    <td><img src="Catppuccin/bubbles.png" alt="bubbles" width="300"/></td>
+    <td><img src="Catppuccin/cat_leaves.png" alt="cat_leaves" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/cat_pacman.png" alt="cat_pacman" width="300"/></td>
+    <td><img src="Catppuccin/cloudsnight.jpg" alt="cloudsnight" width="300"/></td>
+    <td><img src="Catppuccin/ctlady.png" alt="ctlady" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/dark-cat.png" alt="dark-cat" width="300"/></td>
+    <td><img src="Catppuccin/Evening_sky.png" alt="Evening_sky" width="300"/></td>
+    <td><img src="Catppuccin/flowers-1.jpg" alt="flowers-1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/flowers-2.jpg" alt="flowers-2" width="300"/></td>
+    <td><img src="Catppuccin/grleye.png" alt="grleye" width="300"/></td>
+    <td><img src="Catppuccin/hanged_man_catppu.jpg" alt="hanged_man_catppu" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/hanged_man_tree.jpg" alt="hanged_man_tree" width="300"/></td>
+    <td><img src="Catppuccin/joyboy-cattp.png" alt="joyboy-cattp" width="300"/></td>
+    <td><img src="Catppuccin/kaiju.png" alt="kaiju" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/kurzgesagt_blackhole.png" alt="kurzgesagt_blackhole" width="300"/></td>
+    <td><img src="Catppuccin/math.png" alt="math" width="300"/></td>
+    <td><img src="Catppuccin/petals.jpg" alt="petals" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/pixel-earth.png" alt="pixel-earth" width="300"/></td>
+    <td><img src="Catppuccin/rain_world_1.png" alt="rain_world_1" width="300"/></td>
+    <td><img src="Catppuccin/rain_world.png" alt="rain_world" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/rebellious_tower.png" alt="rebellious_tower" width="300"/></td>
+    <td><img src="Catppuccin/sh2-p.png" alt="sh2-p" width="300"/></td>
+    <td><img src="Catppuccin/solar-system.jpg" alt="solar-system" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/space.jpg" alt="space" width="300"/></td>
+    <td><img src="Catppuccin/switch_swirl.jpg" alt="switch_swirl" width="300"/></td>
+    <td><img src="Catppuccin/trncrs.jpg" alt="trncrs" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/wallhaven-gpgyw3.jpg" alt="wallhaven-gpgyw3" width="300"/></td>
+    <td><img src="Catppuccin/wcatppmnt.png" alt="wcatppmnt" width="300"/></td>
+    <td><img src="Catppuccin/windows-error.jpg" alt="windows-error" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
