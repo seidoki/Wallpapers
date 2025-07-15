@@ -54,7 +54,7 @@ My collections of wallpapers.
   <tr>
     <td><img src="Everforest/street.jpg" alt="street" width="300"/></td>
     <td><img src="Everforest/wasteland.jpg" alt="wasteland" width="300"/></td>
-    <td></td>
+    <td><img src="Autmn/pale-blossoms.jpg" alt="pale-blossoms" width="300"/></td>
   </tr>
 </table>
 
@@ -82,28 +82,23 @@ My collections of wallpapers.
     <td><img src="Autmn/my-neighbor-totoro-sunflowers.png" alt="my-neighbor-totoro-sunflowers" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Autmn/oroboshi.jpg" alt="oroboshi" width="300"/></td>
-    <td><img src="Autmn/pale-blossoms.jpg" alt="pale-blossoms" width="300"/></td>
     <td><img src="Autmn/perfect.jpg" alt="perfect" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="Autmn/reflection-pool.jpg" alt="reflection-pool" width="300"/></td>
     <td><img src="Autmn/road-2.jpg" alt="road-2" width="300"/></td>
-    <td><img src="Autmn/rofi-blossoms.png" alt="rofi-blossoms" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/rofi-blossoms.png" alt="rofi-blossoms" width="300"/></td>
     <td><img src="Autmn/roses.jpg" alt="roses" width="300"/></td>
     <td><img src="Autmn/saso-tusar-s-k-2N90yuY.jpg" alt="saso-tusar-s-k-2N90yuY" width="300"/></td>
-    <td><img src="Autmn/square.png" alt="square" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/square.png" alt="square" width="300"/></td>
     <td><img src="Autmn/sunset.jpg" alt="sunset" width="300"/></td>
     <td><img src="Autmn/taipei.jpg" alt="taipei" width="300"/></td>
-    <td><img src="Autmn/train.jpg" alt="train" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/train.jpg" alt="train" width="300"/></td>
     <td><img src="Autmn/trn.jpg" alt="trn" width="300"/></td>
-    <td></td>
     <td></td>
   </tr>
 </table>
