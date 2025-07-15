@@ -279,6 +279,31 @@ My collections of wallpapers.
   </tr>
 </table>
 
+## Rosepine
+
+<table>
+  <tr>
+    <td><img src="Rosepine/bay.jpg" alt="bay" width="300"/></td>
+    <td><img src="Rosepine/citylights.jpg" alt="citylights" width="300"/></td>
+    <td><img src="Rosepine/cls_window.jpg" alt="cls_window" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Rosepine/cyberdeath.png" alt="cyberdeath" width="300"/></td>
+    <td><img src="Rosepine/delorean.png" alt="delorean" width="300"/></td>
+    <td><img src="Rosepine/flowerssky.jpg" alt="flowerssky" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Rosepine/live.jpg" alt="live" width="300"/></td>
+    <td><img src="Rosepine/miami.jpg" alt="miami" width="300"/></td>
+    <td><img src="Rosepine/purple-road.png" alt="purple-road" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Rosepine/retrocmp.jpg" alt="retrocmp" width="300"/></td>
+    <td><img src="Rosepine/sixarms.jpg" alt="sixarms" width="300"/></td>
+    <td><img src="Rosepine/wallhaven-21krw9.jpg" alt="wallhaven-21krw9" width="300"/></td>
+  </tr>
+</table>
+
 ## Crimson
 
 <table>
@@ -365,8 +390,6 @@ My collections of wallpapers.
   </tr>
 </table>
 
-
-
 ## Oxocarbon
 
 <table>
@@ -387,27 +410,4 @@ My collections of wallpapers.
   </tr>
 </table>
 
-## Rosepine
 
-<table>
-  <tr>
-    <td><img src="Rosepine/bay.jpg" alt="bay" width="300"/></td>
-    <td><img src="Rosepine/citylights.jpg" alt="citylights" width="300"/></td>
-    <td><img src="Rosepine/cls_window.jpg" alt="cls_window" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Rosepine/cyberdeath.png" alt="cyberdeath" width="300"/></td>
-    <td><img src="Rosepine/delorean.png" alt="delorean" width="300"/></td>
-    <td><img src="Rosepine/flowerssky.jpg" alt="flowerssky" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Rosepine/live.jpg" alt="live" width="300"/></td>
-    <td><img src="Rosepine/miami.jpg" alt="miami" width="300"/></td>
-    <td><img src="Rosepine/purple-road.png" alt="purple-road" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Rosepine/retrocmp.jpg" alt="retrocmp" width="300"/></td>
-    <td><img src="Rosepine/sixarms.jpg" alt="sixarms" width="300"/></td>
-    <td><img src="Rosepine/wallhaven-21krw9.jpg" alt="wallhaven-21krw9" width="300"/></td>
-  </tr>
-</table>
