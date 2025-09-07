@@ -112,34 +112,39 @@ My collections of wallpapers.
 
 <table>
   <tr>
+    <td><img src="Graphite/ayanami.png" alt="ayanami" width="300"/></td>
     <td><img src="Graphite/caesar.png" alt="caesar" width="300"/></td>
     <td><img src="Graphite/chainsawman-sketch.png" alt="chainsawman-sketch" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Graphite/cutout.png" alt="cutout" width="300"/></td>
     <td><img src="Graphite/cybarasaka.jpg" alt="cybarasaka" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="Graphite/drones.png" alt="drones" width="300"/></td>
-    <td><img src="Graphite/flowers.jpg" alt="flowers" width="300"/></td>
-    <td><img src="Graphite/girl-with-cat.png" alt="girl-with-cat" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/evan.png" alt="evan" width="300"/></td>
+    <td><img src="Graphite/flowers.jpg" alt="flowers" width="300"/></td>
+    <td><img src="Graphite/gachikuta.png" alt="gachikuta" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Graphite/girl-with-cat.png" alt="girl-with-cat" width="300"/></td>
     <td><img src="Graphite/gojo.png" alt="gojo" width="300"/></td>
     <td><img src="Graphite/gundam-anime.jpg" alt="gundam-anime" width="300"/></td>
-    <td><img src="Graphite/mahito.png" alt="mahito" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/mahito.png" alt="mahito" width="300"/></td>
     <td><img src="Graphite/napoli.png" alt="napoli" width="300"/></td>
     <td><img src="Graphite/neon-mountain.png" alt="neon-mountain" width="300"/></td>
-    <td><img src="Graphite/shougandark.jpg" alt="shougandark" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/road.jpg" alt="road" width="300"/></td>
+    <td><img src="Graphite/shougandark.jpg" alt="shougandark" width="300"/></td>
     <td><img src="Graphite/spacesnow.jpg" alt="spacesnow" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Graphite/swordgarden.jpg" alt="swordgarden" width="300"/></td>
     <td><img src="Graphite/the-stairwell.jpg" alt="the-stairwell" width="300"/></td>
     <td><img src="Graphite/v1.png" alt="v1" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Graphite/wallhaven-7j3xm3.png" alt="wallhaven-7j3xm3" width="300"/></td>
-    <td><img src="Graphite/wallhaven-ogdo95.jpg" alt="wallhaven-ogdo95" width="300"/></td>
-    <td><img src="Graphite/wallhaven-ogx5y9.jpg" alt="wallhaven-ogx5y9" width="300"/></td>
   </tr>
 </table>
 
@@ -338,28 +343,33 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Crimson/girl-with-sword-glasses.jpg" alt="girl-with-sword-glasses" width="300"/></td>
-    <td><img src="Crimson/gundam-skull-mechajpg" alt="gundam-skull-mechajpg" width="300"/></td>
+    <td><img src="Crimson/gundam-skull-mecha.jpg" alt="gundam-skull-mecha" width="300"/></td>
     <td><img src="Crimson/jinagshi.jpg" alt="jinagshi" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Crimson/owl-color.png" alt="owl-color" width="300"/></td>
+    <td><img src="Crimson/red-star.jpg" alt="red-star" width="300"/></td>
     <td><img src="Crimson/redhood.png" alt="redhood" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redlamp.jpg" alt="redlamp" width="300"/></td>
+    <td><img src="Crimson/redsky.jpg" alt="redsky" width="300"/></td>
     <td><img src="Crimson/smoking-nun.jpg" alt="smoking-nun" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/soldiers.jpg" alt="soldiers" width="300"/></td>
     <td><img src="Crimson/sword-draw.jpg" alt="sword-draw" width="300"/></td>
     <td><img src="Crimson/swwal.jpg" alt="swwal" width="300"/></td>
-    <td><img src="Crimson/thatlook.jpg" alt="thatlook" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/thatlook.jpg" alt="thatlook" width="300"/></td>
     <td><img src="Crimson/turbo.jpg" alt="turbo" width="300"/></td>
     <td><img src="Crimson/wayytobigsword.jpg" alt="wayytobigsword" width="300"/></td>
-    <td><img src="Crimson/whirers.jpg" alt="whirers" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/whirers.jpg" alt="whirers" width="300"/></td>
     <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="300"/></td>
     <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="300"/></td>
-    <td><img src="Crimson/red-star.jpg" alt="zbroken-dimens2" width="300"/></td>
   </tr>
 </table>
 
@@ -367,34 +377,34 @@ My collections of wallpapers.
 
 <table>
   <tr>
+    <td><img src="Kanagawa/apoc.jpg" alt="apoc" width="300"/></td>
     <td><img src="Kanagawa/clowscape.jpg" alt="clowscape" width="300"/></td>
     <td><img src="Kanagawa/doraggo.jpg" alt="doraggo" width="300"/></td>
-    <td><img src="Kanagawa/evangalion.png" alt="evangalion" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/evangalion.png" alt="evangalion" width="300"/></td>
     <td><img src="Kanagawa/fish-animgrl.jpg" alt="fish-animgrl" width="300"/></td>
     <td><img src="Kanagawa/girlcryon.jpg" alt="girlcryon" width="300"/></td>
-    <td><img src="Kanagawa/hanged_man_tree.jpg" alt="hanged_man_tree" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/hanged_man_tree.jpg" alt="hanged_man_tree" width="300"/></td>
     <td><img src="Kanagawa/hny.jpg" alt="hny" width="300"/></td>
     <td><img src="Kanagawa/knahut.jpg" alt="knahut" width="300"/></td>
-    <td><img src="Kanagawa/kubuntuGear.jpg" alt="kubuntuGear" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/kubuntuGear.jpg" alt="kubuntuGear" width="300"/></td>
     <td><img src="Kanagawa/kurou.jpg" alt="kurou" width="300"/></td>
     <td><img src="Kanagawa/night.jpg" alt="night" width="300"/></td>
-    <td><img src="Kanagawa/rbeastlybird.jpg" alt="rbeastlybird" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/rbeastlybird.jpg" alt="rbeastlybird" width="300"/></td>
     <td><img src="Kanagawa/redgiant.jpg" alt="redgiant" width="300"/></td>
     <td><img src="Kanagawa/smokeblue.jpg" alt="smokeblue" width="300"/></td>
-    <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
     <td><img src="Kanagawa/wayytooblue.jpg" alt="wayytooblue" width="300"/></td>
     <td><img src="Kanagawa/wldgta.jpg" alt="wldgta" width="300"/></td>
-    <td></td>
   </tr>
 </table>
 
