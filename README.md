@@ -59,7 +59,7 @@ My collections of wallpapers.
   <tr>
     <td><img src="Everforest/train-bridge.jpg" alt="train-bridge" width="300"/></td>
     <td><img src="Everforest/wasteland.jpg" alt="wasteland" width="300"/></td>
-    <td></td>
+    <td><img src="Everforest/pond.jpg" alt="pond" width="300"/></td>
   </tr>
 </table>
 
@@ -106,6 +106,11 @@ My collections of wallpapers.
     <td><img src="Autmn/trn.jpg" alt="trn" width="300"/></td>
     <td><img src="Autmn/yaho.png" alt="yaho" width="300"/></td>
   </tr>
+  <tr>
+    <td><img src="Autmn/ms.jpg" alt="ms" width="300"/></td>
+    <td><img src="Autmn/saber.jpg" alt="saber" width="300"/></td>
+    <td><img src="Autmn/valle.jpg" alt="valle" width="300"/></td>
+  </tr>
 </table>
 
 ## Graphite
@@ -145,6 +150,11 @@ My collections of wallpapers.
     <td><img src="Graphite/swordgarden.jpg" alt="swordgarden" width="300"/></td>
     <td><img src="Graphite/the-stairwell.jpg" alt="the-stairwell" width="300"/></td>
     <td><img src="Graphite/v1.png" alt="v1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Graphite/wallhaven-je3qeq.jpg" alt="wallhaven-je3qeq" width="300"/></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -371,6 +381,11 @@ My collections of wallpapers.
     <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="300"/></td>
     <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="300"/></td>
   </tr>
+  <tr>
+    <td><img src="Crimson/redcouds.png" alt="redcouds" width="300"/></td>
+    <td><img src="Crimson/space.jpg" alt="space" width="300"/></td>
+    <td></td>
+  </tr>
 </table>
 
 ## Kanagawa
@@ -405,6 +420,11 @@ My collections of wallpapers.
     <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
     <td><img src="Kanagawa/wayytooblue.jpg" alt="wayytooblue" width="300"/></td>
     <td><img src="Kanagawa/wldgta.jpg" alt="wldgta" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Kanagawa/Untitled.png" alt="Untitled" width="300"/></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
