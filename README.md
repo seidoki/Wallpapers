@@ -318,7 +318,8 @@ My collections of wallpapers.
     <td><img src="Rosepine/miami.jpg" alt="miami" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/orange.jpg" alt="orange" width.jpg" alt="puffy-stars" width="300"/></td>
+    <td><img src="Rosepine/orange.jpg" alt="orange" width="300"/></td>
+    <td><img src="Rosepine/puffy-stars.jpg" alt="puffy-stars" width="300"/></td>
     <td><img src="Rosepine/purple-road.png" alt="purple-road" width="300"/></td>
   </tr>
   <tr>
@@ -343,47 +344,41 @@ My collections of wallpapers.
 <table>
   <tr>
     <td><img src="Crimson/anie.jpg" alt="anie" width="300"/></td>
-    <td><img src="Crimson/console.jpg" alt="console" width="300"/></td>
     <td><img src="Crimson/crimsonwitch.jpg" alt="crimsonwitch" width="300"/></td>
+    <td><img src="Crimson/crsword.jpg" alt="crsword" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/crsword.jpg" alt="crsword" width="300"/></td>
     <td><img src="Crimson/cyborgred.jpg" alt="cyborgred" width="300"/></td>
     <td><img src="Crimson/demon-girl.jpg" alt="demon-girl" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/girl-with-sword-glasses.jpg" alt="girl-with-sword-glasses" width="300"/></td>
     <td><img src="Crimson/gundam-skull-mecha.jpg" alt="gundam-skull-mecha" width="300"/></td>
-    <td><img src="Crimson/jinagshi.jpg" alt="jinagshi" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/jinagshi.jpg" alt="jinagshi" width="300"/></td>
     <td><img src="Crimson/owl-color.png" alt="owl-color" width="300"/></td>
     <td><img src="Crimson/red-star.jpg" alt="red-star" width="300"/></td>
-    <td><img src="Crimson/redhood.png" alt="redhood" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/redlamp.jpg" alt="redlamp" width="300"/></td>
-    <td><img src="Crimson/redsky.jpg" alt="redsky" width="300"/></td>
-    <td><img src="Crimson/smoking-nun.jpg" alt="smoking-nun" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/soldiers.jpg" alt="soldiers" width="300"/></td>
-    <td><img src="Crimson/sword-draw.jpg" alt="sword-draw" width="300"/></td>
-    <td><img src="Crimson/swwal.jpg" alt="swwal" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/thatlook.jpg" alt="thatlook" width="300"/></td>
-    <td><img src="Crimson/turbo.jpg" alt="turbo" width="300"/></td>
-    <td><img src="Crimson/wayytobigsword.jpg" alt="wayytobigsword" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/whirers.jpg" alt="whirers" width="300"/></td>
-    <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="300"/></td>
-    <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Crimson/redcouds.png" alt="redcouds" width="300"/></td>
+    <td><img src="Crimson/redhood.png" alt="redhood" width="300"/></td>
+    <td><img src="Crimson/redlamp.jpg" alt="redlamp" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redsky.jpg" alt="redsky" width="300"/></td>
+    <td><img src="Crimson/smoking-nun.jpg" alt="smoking-nun" width="300"/></td>
+    <td><img src="Crimson/soldiers.jpg" alt="soldiers" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="Crimson/space.jpg" alt="space" width="300"/></td>
+    <td><img src="Crimson/sword-draw.jpg" alt="sword-draw" width="300"/></td>
+    <td><img src="Crimson/thatlook.jpg" alt="thatlook" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/wayytobigsword.jpg" alt="wayytobigsword" width="300"/></td>
+    <td><img src="Crimson/whirers.jpg" alt="whirers" width="300"/></td>
+    <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="300"/></td>
   </tr>
 </table>
 
@@ -416,12 +411,12 @@ My collections of wallpapers.
     <td><img src="Kanagawa/smokeblue.jpg" alt="smokeblue" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/Untitled.png" alt="Untitled" width="300"/></td>
     <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
     <td><img src="Kanagawa/wayytooblue.jpg" alt="wayytooblue" width="300"/></td>
-    <td><img src="Kanagawa/wldgta.jpg" alt="wldgta" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Kanagawa/Untitled.png" alt="Untitled" width="300"/></td>
+    <td><img src="Kanagawa/wldgta.jpg" alt="wldgta" width="300"/></td>
   </tr>
 </table>
 
@@ -440,7 +435,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Oxocarbon/oxo-evan.jpg" alt="oxo-evan" width="300"/></td>
-    <td><img src="Oxocarbon/tgnnq2.jpg" alt="tgnnq2" width="300"/></td>
     <td><img src="Oxocarbon/tgnnq.jpg" alt="tgnnq" width="300"/></td>
+    <td><img src="Oxocarbon/tgnnq2.jpg" alt="tgnnq2" width="300"/></td>
   </tr>
 </table>
