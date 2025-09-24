@@ -111,6 +111,10 @@ My collections of wallpapers.
     <td><img src="Autmn/saber.jpg" alt="saber" width="300"/></td>
     <td><img src="Autmn/valle.jpg" alt="valle" width="300"/></td>
   </tr>
+  <tr>
+    <td><img src="Autmn/greenland.jpg" alt="greenland" width="300"/></td>
+    <td><img src="Autmn/rwood.jpg" alt="rwood" width="300"/></td>
+  </tr>
 </table>
 
 ## Graphite
@@ -153,8 +157,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Graphite/wallhaven-je3qeq.jpg" alt="wallhaven-je3qeq" width="300"/></td>
-    <td></td>
-    <td></td>
+    <td><img src="Graphite/evengalblood.jpg" alt="evengalblood" width="300"/></td>
   </tr>
 </table>
 
@@ -263,8 +266,6 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Gruvbox/solar-system.jpg" alt="solar-system" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -317,8 +318,7 @@ My collections of wallpapers.
     <td><img src="Rosepine/miami.jpg" alt="miami" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/orange.jpg" alt="orange" width="300"/></td>
-    <td><img src="Rosepine/puffy-stars.jpg" alt="puffy-stars" width="300"/></td>
+    <td><img src="Rosepine/orange.jpg" alt="orange" width.jpg" alt="puffy-stars" width="300"/></td>
     <td><img src="Rosepine/purple-road.png" alt="purple-road" width="300"/></td>
   </tr>
   <tr>
@@ -333,8 +333,8 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="300"/></td>
-    <td></td>
-    <td></td>
+    <td><img src="Rosepine/flower.jpg" alt="flower" width="300"/></td>
+    <td><img src="Rosepine/girl-with-sword-glasses.jpg" alt="girl-with-sword-glasses" width="300"/></td>
   </tr>
 </table>
 
@@ -384,7 +384,6 @@ My collections of wallpapers.
   <tr>
     <td><img src="Crimson/redcouds.png" alt="redcouds" width="300"/></td>
     <td><img src="Crimson/space.jpg" alt="space" width="300"/></td>
-    <td></td>
   </tr>
 </table>
 
@@ -423,8 +422,6 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Kanagawa/Untitled.png" alt="Untitled" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
