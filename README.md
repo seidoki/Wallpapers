@@ -8,6 +8,66 @@ My collections of wallpapers.
 
 ### Tabular view
 
+## Catppuccin
+
+<table>
+  <tr>
+    <td><img src="Catppuccin/boat-abondoned.jpg" alt="boat-abondoned" width="300"/></td>
+    <td><img src="Catppuccin/bubbles.png" alt="bubbles" width="300"/></td>
+    <td><img src="Catppuccin/catp-leaves.png" alt="catp-leaves" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/catp-pacman.png" alt="catp-pacman" width="300"/></td>
+    <td><img src="Catppuccin/clouds.jpg" alt="clouds" width="300"/></td>
+    <td><img src="Catppuccin/cloudsnight.jpg" alt="cloudsnight" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/ctlady.png" alt="ctlady" width="300"/></td>
+    <td><img src="Catppuccin/dark-cat.png" alt="dark-cat" width="300"/></td>
+    <td><img src="Catppuccin/Elec_catas.jpg" alt="Elec_catas" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/Evening_sky.png" alt="Evening_sky" width="300"/></td>
+    <td><img src="Catppuccin/flowers-1.jpg" alt="flowers-1" width="300"/></td>
+    <td><img src="Catppuccin/flowers-2.jpg" alt="flowers-2" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/girl-eye.png" alt="girl-eye" width="300"/></td>
+    <td><img src="Catppuccin/girl-flowers.jpg" alt="girl-flowers" width="300"/></td>
+    <td><img src="Catppuccin/hanged-man-catp.jpg" alt="hanged-man-catp" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/inzsky.png" alt="inzsky" width="300"/></td>
+    <td><img src="Catppuccin/joyboy-cattp.png" alt="joyboy-cattp" width="300"/></td>
+    <td><img src="Catppuccin/kaiju.png" alt="kaiju" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/kurzgesagt-blackhole.png" alt="kurzgesagt-blackhole" width="300"/></td>
+    <td><img src="Catppuccin/kyjumnt.png" alt="kyjumnt" width="300"/></td>
+    <td><img src="Catppuccin/math.png" alt="math" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/petals.jpg" alt="petals" width="300"/></td>
+    <td><img src="Catppuccin/pixel-earth.png" alt="pixel-earth" width="300"/></td>
+    <td><img src="Catppuccin/rain_world_1.png" alt="rain_world_1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/rain_world.png" alt="rain_world" width="300"/></td>
+    <td><img src="Catppuccin/rebellious_tower.png" alt="rebellious_tower" width="300"/></td>
+    <td><img src="Catppuccin/sh2-p.png" alt="sh2-p" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/solar-system.jpg" alt="solar-system" width="300"/></td>
+    <td><img src="Catppuccin/space.jpg" alt="space" width="300"/></td>
+    <td><img src="Catppuccin/switch_swirl.jpg" alt="switch_swirl" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Catppuccin/trncrs.jpg" alt="trncrs" width="300"/></td>
+    <td><img src="Catppuccin/wcatppmnt.png" alt="wcatppmnt" width="3-00"/></td>
+    <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="300"/></td>
+  </tr>
+</table>
+
 ## Everforest
 
 <table>
@@ -183,67 +243,6 @@ My collections of wallpapers.
     <td><img src="Gruvbox/gruv-minimal/Toradora.png" alt="Toradora" width="300"/></td>
   </tr>
 </table>
-
-## Catppuccin
-
-<table>
-  <tr>
-    <td><img src="Catppuccin/boat-abondoned.jpg" alt="boat-abondoned" width="300"/></td>
-    <td><img src="Catppuccin/bubbles.png" alt="bubbles" width="300"/></td>
-    <td><img src="Catppuccin/catp-leaves.png" alt="catp-leaves" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/catp-pacman.png" alt="catp-pacman" width="300"/></td>
-    <td><img src="Catppuccin/clouds.jpg" alt="clouds" width="300"/></td>
-    <td><img src="Catppuccin/cloudsnight.jpg" alt="cloudsnight" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/ctlady.png" alt="ctlady" width="300"/></td>
-    <td><img src="Catppuccin/dark-cat.png" alt="dark-cat" width="300"/></td>
-    <td><img src="Catppuccin/Elec_catas.jpg" alt="Elec_catas" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/Evening_sky.png" alt="Evening_sky" width="300"/></td>
-    <td><img src="Catppuccin/flowers-1.jpg" alt="flowers-1" width="300"/></td>
-    <td><img src="Catppuccin/flowers-2.jpg" alt="flowers-2" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/girl-eye.png" alt="girl-eye" width="300"/></td>
-    <td><img src="Catppuccin/girl-flowers.jpg" alt="girl-flowers" width="300"/></td>
-    <td><img src="Catppuccin/hanged-man-catp.jpg" alt="hanged-man-catp" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/inzsky.png" alt="inzsky" width="300"/></td>
-    <td><img src="Catppuccin/joyboy-cattp.png" alt="joyboy-cattp" width="300"/></td>
-    <td><img src="Catppuccin/kaiju.png" alt="kaiju" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/kurzgesagt-blackhole.png" alt="kurzgesagt-blackhole" width="300"/></td>
-    <td><img src="Catppuccin/kyjumnt.png" alt="kyjumnt" width="300"/></td>
-    <td><img src="Catppuccin/math.png" alt="math" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/petals.jpg" alt="petals" width="300"/></td>
-    <td><img src="Catppuccin/pixel-earth.png" alt="pixel-earth" width="300"/></td>
-    <td><img src="Catppuccin/rain_world_1.png" alt="rain_world_1" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/rain_world.png" alt="rain_world" width="300"/></td>
-    <td><img src="Catppuccin/rebellious_tower.png" alt="rebellious_tower" width="300"/></td>
-    <td><img src="Catppuccin/sh2-p.png" alt="sh2-p" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/solar-system.jpg" alt="solar-system" width="300"/></td>
-    <td><img src="Catppuccin/space.jpg" alt="space" width="300"/></td>
-    <td><img src="Catppuccin/switch_swirl.jpg" alt="switch_swirl" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Catppuccin/trncrs.jpg" alt="trncrs" width="300"/></td>
-    <td><img src="Catppuccin/wcatppmnt.png" alt="wcatppmnt" width="3-00"/></td>
-    <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="300"/></td>
-  </tr>
-</table>
-
 
 ## Kanagawa
 
