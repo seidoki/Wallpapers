@@ -89,30 +89,35 @@ My collections of wallpapers.
   <tr>
     <td><img src="Everforest/EverWitch.jpg" alt="EverWitch" width="300"/></td>
     <td><img src="Everforest/fern.jpg" alt="fern" width="300"/></td>
-    <td><img src="Everforest/flowers.png" alt="flowers" width="300"/></td>
+    <td><img src="Everforest/flower.jpg" alt="flower" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Everforest/flowers.png" alt="flowers" width="300"/></td>
     <td><img src="Everforest/forest.jpg" alt="forest" width="300"/></td>
     <td><img src="Everforest/forestpath.jpg" alt="forestpath" width="300"/></td>
-    <td><img src="Everforest/fower1.jpg" alt="fower1" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Everforest/fower1.jpg" alt="fower1" width="300"/></td>
     <td><img src="Everforest/green-fish.jpg" alt="green-fish" width="300"/></td>
     <td><img src="Everforest/green.jpeg" alt="green" width="300"/></td>
-    <td><img src="Everforest/leaves-wall.png" alt="leaves-wall" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Everforest/leaves-wall.png" alt="leaves-wall" width="300"/></td>
     <td><img src="Everforest/leavesinrain.jpg" alt="leavesinrain" width="300"/></td>
+    <td><img src="Everforest/marsh.jpg" alt="marsh" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="Everforest/middleofnowhere.jpg" alt="middleofnowhere" width="300"/></td>
     <td><img src="Everforest/mistyforest.png" alt="mistyforest" width="300"/></td>
+    <td><img src="Everforest/mount.jpg" alt="mount" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Everforest/mount.jpg" alt="mount" width="300"/></td>
     <td><img src="Everforest/pale-blossoms.jpg" alt="pale-blossoms" width="300"/></td>
     <td><img src="Everforest/polyscape.png" alt="polyscape" width="300"/></td>
+    <td><img src="Everforest/pond.jpg" alt="pond" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Everforest/pond.jpg" alt="pond" width="300"/></td>
+    <td><img src="Everforest/redek.jpg" alt="redek" width="300"/></td>
     <td><img src="Everforest/shed.png" alt="shed" width="300"/></td>
     <td><img src="Everforest/stairs.jpg" alt="stairs" width="300"/></td>
   </tr>
@@ -127,14 +132,19 @@ My collections of wallpapers.
 
 <table>
   <tr>
+    <td><img src="Graphite/abstract_black_white_Solar_System_space_planet-1831359.png" alt="abstract_black_white_Solar_System_space_planet-1831359" width="300"/></td>
     <td><img src="Graphite/ayanami.png" alt="ayanami" width="300"/></td>
-    <td><img src="Graphite/caesar.png" alt="caesar" width="300"/></td>
-    <td><img src="Graphite/chainsawman-sketch.png" alt="chainsawman-sketch" width="300"/></td>
+    <td><img src="Graphite/berserk.png" alt="berserk" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/caesar.png" alt="caesar" width="300"/></td>
+    <td><img src="Graphite/chainsawman-sketch.png" alt="chainsawman-sketch" width="300"/></td>
     <td><img src="Graphite/ctyscape.jpg" alt="ctyscape" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="Graphite/cutout.png" alt="cutout" width="300"/></td>
     <td><img src="Graphite/cybarasaka.jpg" alt="cybarasaka" width="300"/></td>
+    <td><img src="Graphite/dkrand.jpg" alt="dkrand" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Graphite/drones.png" alt="drones" width="300"/></td>
@@ -158,16 +168,17 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Graphite/shougandark.jpg" alt="shougandark" width="300"/></td>
+    <td><img src="Graphite/skull.png" alt="skull" width="300"/></td>
     <td><img src="Graphite/spacesnow.jpg" alt="spacesnow" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="Graphite/swordgarden.jpg" alt="swordgarden" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="Graphite/the-stairwell.jpg" alt="the-stairwell" width="300"/></td>
-    <td><img src="Graphite/v1.png" alt="v1" width="300"/></td>
-    <td><img src="Graphite/wallhaven-951jkx.jpg" alt="wallhaven-951jkx" width="300"/></td>
+    <td><img src="Graphite/unknowgod.jpg" alt="unknowgod" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Graphite/wallhaven-je3qeq.jpg" alt="wallhaven-je3qeq" width="300"/></td>
+    <td><img src="Graphite/v1.png" alt="v1" width="300"/></td>
+    <td><img src="Graphite/wildtexture.jpg" alt="wildtexture" width="300"/></td>
   </tr>
 </table>
 
@@ -210,12 +221,14 @@ My collections of wallpapers.
     <td><img src="Gruvbox/misty-forest.jpg" alt="misty-forest" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/mntview.jpg" alt="mntview" width="300"/></td>
     <td><img src="Gruvbox/moon-night.png" alt="moon-night" width="300"/></td>
     <td><img src="Gruvbox/planets.jpg" alt="planets" width="300"/></td>
-    <td><img src="Gruvbox/railway.jpg" alt="railway" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/railway.jpg" alt="railway" width="300"/></td>
     <td><img src="Gruvbox/solar-system.jpg" alt="solar-system" width="300"/></td>
+    <td><img src="Gruvbox/violet-evergarden-eddited.png" alt="violet-evergarden-eddited" width="300"/></td>
   </tr>
 </table>
 
@@ -260,24 +273,25 @@ My collections of wallpapers.
   <tr>
     <td><img src="Kanagawa/hanged_man_tree.jpg" alt="hanged_man_tree" width="300"/></td>
     <td><img src="Kanagawa/hny.jpg" alt="hny" width="300"/></td>
-    <td><img src="Kanagawa/kana-lady.png" alt="kana-lady" width="300"/></td>
+    <td><img src="Kanagawa/jinja.jpg" alt="jinja" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/kana-lady.png" alt="kana-lady" width="300"/></td>
     <td><img src="Kanagawa/kanablue.jpg" alt="kanablue" width="300"/></td>
     <td><img src="Kanagawa/kanafish.jpg" alt="kanafish" width="300"/></td>
-    <td><img src="Kanagawa/knahut.jpg" alt="knahut" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/knahut.jpg" alt="knahut" width="300"/></td>
     <td><img src="Kanagawa/kubuntuGear.jpg" alt="kubuntuGear" width="300"/></td>
     <td><img src="Kanagawa/kurou.jpg" alt="kurou" width="300"/></td>
-    <td><img src="Kanagawa/night.jpg" alt="night" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/night.jpg" alt="night" width="300"/></td>
     <td><img src="Kanagawa/petals.jpg" alt="petals" width="300"/></td>
     <td><img src="Kanagawa/smokeblue.jpg" alt="smokeblue" width="300"/></td>
-    <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
     <td><img src="Kanagawa/wldgta.jpg" alt="wldgta" width="300"/></td>
   </tr>
 </table>
@@ -322,17 +336,21 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Autmn/saber.jpg" alt="saber" width="300"/></td>
-    <td><img src="Autmn/saso-tusar-s-k-2N90yuY.jpg" alt="saso-tusar-s-k-2N90yuY" width="300"/></td>
     <td><img src="Autmn/shougan.png" alt="shougan" width="300"/></td>
+    <td><img src="Autmn/sunset.jpg" alt="sunset" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Autmn/sunset.jpg" alt="sunset" width="300"/></td>
     <td><img src="Autmn/taipei.jpg" alt="taipei" width="300"/></td>
     <td><img src="Autmn/train.jpg" alt="train" width="300"/></td>
+    <td><img src="Autmn/trees.jpg" alt="trees" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Autmn/trn.jpg" alt="trn" width="300"/></td>
     <td><img src="Autmn/valle.jpg" alt="valle" width="300"/></td>
+    <td><img src="Autmn/valley.jpg" alt="valley" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/waterfall.jpg" alt="waterfall" width="300"/></td>
     <td><img src="Autmn/yaho.png" alt="yaho" width="300"/></td>
   </tr>
 </table>
@@ -370,35 +388,39 @@ My collections of wallpapers.
   <tr>
     <td><img src="Rosepine/cyberdeath.png" alt="cyberdeath" width="300"/></td>
     <td><img src="Rosepine/dominik-mayer.jpg" alt="dominik-mayer" width="300"/></td>
-    <td><img src="Rosepine/flower.jpg" alt="flower" width="300"/></td>
+    <td><img src="Rosepine/eki.jpg" alt="eki" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Rosepine/flower.jpg" alt="flower" width="300"/></td>
     <td><img src="Rosepine/girl-with-sword-glasses.jpg" alt="girl-with-sword-glasses" width="300"/></td>
     <td><img src="Rosepine/joyboy.png" alt="joyboy" width="300"/></td>
-    <td><img src="Rosepine/kaf.jpeg" alt="kaf" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="Rosepine/kaf.jpeg" alt="kaf" width="300"/></td>
     <td><img src="Rosepine/kenjaku.png" alt="kenjaku" width="300"/></td>
+    <td><img src="Rosepine/key.png" alt="key" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="Rosepine/lighthouse.jpg" alt="lighthouse" width="300"/></td>
     <td><img src="Rosepine/live.jpg" alt="live" width="300"/></td>
+    <td><img src="Rosepine/miami.jpg" alt="miami" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/miami.jpg" alt="miami" width="300"/></td>
     <td><img src="Rosepine/miles.jpg" alt="miles" width="300"/></td>
     <td><img src="Rosepine/puffy-stars.jpg" alt="puffy-stars" width="300"/></td>
+    <td><img src="Rosepine/purple-road.png" alt="purple-road" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/purple-road.png" alt="purple-road" width="300"/></td>
     <td><img src="Rosepine/retrocmp.jpg" alt="retrocmp" width="300"/></td>
     <td><img src="Rosepine/room.png" alt="room" width="300"/></td>
+    <td><img src="Rosepine/samurai-bebop.png" alt="samurai-bebop" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/samurai-bebop.png" alt="samurai-bebop" width="300"/></td>
     <td><img src="Rosepine/shougan2.png" alt="shougan2" width="300"/></td>
     <td><img src="Rosepine/sixarms.jpg" alt="sixarms" width="300"/></td>
+    <td><img src="Rosepine/starwars-xwing.png" alt="starwars-xwing" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/starwars-xwing.png" alt="starwars-xwing" width="300"/></td>
     <td><img src="Rosepine/telefp.jpg" alt="telefp" width="300"/></td>
     <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="300"/></td>
   </tr>
