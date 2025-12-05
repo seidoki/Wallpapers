@@ -173,6 +173,24 @@ My collections of wallpapers.
     <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="400"/></td>
     <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="400"/></td>
+    <td><img src="Crimson/redbg/csm.jpg" alt="csm" width="400"/></td>
+    <td><img src="Crimson/redbg/demon-girl.jpg" alt="demon-girl" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redbg/hideye.jpg" alt="hideye" width="400"/></td>
+    <td><img src="Crimson/redbg/smoking-nun.jpg" alt="smoking-nun" width="400"/></td>
+    <td><img src="Crimson/redbg/Sword Black.png" alt="Sword Black" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redbg/sword-draw.jpg" alt="sword-draw" width="400"/></td>
+    <td><img src="Crimson/redbg/SwordSilverHair.png" alt="SwordSilverHair" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="400"/></td>
+    <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="400"/></td>
+  </tr>
 </table>
 
 ## Everforest
@@ -388,6 +406,34 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Gruvbox/trees.png" alt="trees" width="400"/></td>
+  </tr>
+</table>
+
+## Gruvbox-minimal
+
+<table>
+  <tr>
+    <td><img src="Gruvbox/gruv-minimal/debian-swirl.png" alt="debian-swirl" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/dragon.png" alt="dragon" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/gnu.jpg" alt="gnu" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Gruvbox/gruv-minimal/gruv-abstract-maze.png" alt="gruv-abstract-maze" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/grv-atro.png" alt="grv-atro" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/lady.png" alt="lady" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Gruvbox/gruv-minimal/ostree.jpg" alt="ostree" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/pacman-ghosts.png" alt="pacman-ghosts" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/skull-2.png" alt="skull-2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Gruvbox/gruv-minimal/snake.png" alt="snake" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/squares.png" alt="squares" width="400"/></td>
+    <td><img src="Gruvbox/gruv-minimal/Statue.png" alt="Statue" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Gruvbox/gruv-minimal/Toradora.png" alt="Toradora" width="400"/></td>
   </tr>
 </table>
 
