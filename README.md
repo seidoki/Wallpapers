@@ -109,6 +109,7 @@ My collections of wallpapers.
   <tr>
     <td><img src="Catppuccin/wcatppmnt.png" alt="wcatppmnt" width="300"/></td>
     <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="300"/></td>
+    <td><img src="Catppuccin/uni-eyes.jpg" alt="uni-eyes" width="300"/></td>
   </tr>
 </table>
 
@@ -122,13 +123,8 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Crimson/cherries.jpg" alt="cherries" width="300"/></td>
-    <td><img src="Crimson/crimsonwitch.jpg" alt="crimsonwitch" width="300"/></td>
     <td><img src="Crimson/crsword.jpg" alt="crsword" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/csm.jpg" alt="csm" width="300"/></td>
     <td><img src="Crimson/cyborgred.jpg" alt="cyborgred" width="300"/></td>
-    <td><img src="Crimson/demon-girl.jpg" alt="demon-girl" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Crimson/doraggo.jpg" alt="doraggo" width="300"/></td>
@@ -161,24 +157,34 @@ My collections of wallpapers.
     <td><img src="Crimson/rofi-blossoms.png" alt="rofi-blossoms" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/smoking-nun.jpg" alt="smoking-nun" width="300"/></td>
     <td><img src="Crimson/soldiers.jpg" alt="soldiers" width="300"/></td>
     <td><img src="Crimson/space.jpg" alt="space" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="Crimson/strawberries.jpg" alt="strawberries" width="300"/></td>
-    <td><img src="Crimson/Sword Black.png" alt="Sword Black" width="300"/></td>
-    <td><img src="Crimson/sword-draw.jpg" alt="sword-draw" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/thatlook.jpg" alt="thatlook" width="300"/></td>
-    <td><img src="Crimson/wayytobigsword.jpg" alt="wayytobigsword" width="300"/></td>
     <td><img src="Crimson/whoo.jpg" alt="whoo" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="Crimson/wlop-8se.jpg" alt="wlop-8se" width="300"/></td>
     <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="300"/></td>
+    <td><img src="Crimson/anime-girl-redhair.jpg" alt="anime-girl-redhair" width="300"/></td>
+    <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redbg/csm.jpg" alt="csm" width="300"/></td>
+    <td><img src="Crimson/redbg/demon-girl.jpg" alt="demon-girl" width="300"/></td>
+    <td><img src="Crimson/redbg/hideye.jpg" alt="hideye" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redbg/smoking-nun.jpg" alt="smoking-nun" width="300"/></td>
+    <td><img src="Crimson/redbg/Sword Black.png" alt="Sword Black" width="300"/></td>
+    <td><img src="Crimson/redbg/sword-draw.jpg" alt="sword-draw" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Crimson/redbg/SwordSilverHair.png" alt="SwordSilverHair" width="300"/></td>
+    <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="300"/></td>
+    <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="300"/></td>
   </tr>
 </table>
 
@@ -247,6 +253,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Everforest/treecov.png" alt="treecov" width="300"/></td>
+    <td><img src="Everforest/smok.jpg" alt="smok" width="300"/></td>
   </tr>
 </table>
 
@@ -285,6 +292,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Flexoki/you.jpg" alt="you" width="300"/></td>
+    <td><img src="Flexoki/ichie.jpg" alt="ichie" width="300"/></td>
   </tr>
 </table>
 
@@ -343,6 +351,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Graphite/wildtexture.jpg" alt="wildtexture" width="300"/></td>
+    <td><img src="Graphite/venom.jpeg" alt="venom" width="300"/></td>
   </tr>
 </table>
 
@@ -388,6 +397,9 @@ My collections of wallpapers.
     <td><img src="Gruvbox/railway.jpg" alt="railway" width="300"/></td>
     <td><img src="Gruvbox/solar-system.jpg" alt="solar-system" width="300"/></td>
     <td><img src="Gruvbox/wallhaven-vpq8w8.png" alt="wallhaven-vpq8w8" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Gruvbox/grl-bouke.png" alt="grl-bouke" width="300"/></td>
   </tr>
 </table>
 
@@ -460,6 +472,12 @@ My collections of wallpapers.
   <tr>
     <td><img src="Kanagawa/smokeblue.jpg" alt="smokeblue" width="300"/></td>
     <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="300"/></td>
+    <td><img src="Kanagawa/1357516.jpeg" alt="1357516" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Kanagawa/1359465.png" alt="1359465" width="300"/></td>
+    <td><img src="Kanagawa/anime-back.jpg" alt="anime-back" width="300"/></td>
+    <td><img src="Kanagawa/wuwadoor.jpeg" alt="wuwadoor" width="300"/></td>
   </tr>
 </table>
 
@@ -526,18 +544,26 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Rosepine/retrocmp.jpg" alt="retrocmp" width="300"/></td>
-    <td><img src="Rosepine/room.png" alt="room" width="300"/></td>
     <td><img src="Rosepine/samurai-bebop.png" alt="samurai-bebop" width="300"/></td>
+    <td><img src="Rosepine/shougan2.png" alt="shougan2" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/shougan2.png" alt="shougan2" width="300"/></td>
     <td><img src="Rosepine/sixarms.jpg" alt="sixarms" width="300"/></td>
     <td><img src="Rosepine/starwars-xwing.png" alt="starwars-xwing" width="300"/></td>
+    <td><img src="Rosepine/telefp.jpg" alt="telefp" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/telefp.jpg" alt="telefp" width="300"/></td>
     <td><img src="Rosepine/wallhaven-k88wp1.jpg" alt="wallhaven-k88wp1" width="300"/></td>
     <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="300"/></td>
+    <td><img src="Rosepine/blossom.jpg" alt="blossom" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Rosepine/girlback.jpg" alt="girlback" width="300"/></td>
+    <td><img src="Rosepine/pnk.jpg" alt="pnk" width="300"/></td>
+    <td><img src="Rosepine/room.jpg" alt="room" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Rosepine/sakurabranch.jpeg" alt="sakurabranch" width="300"/></td>
   </tr>
 </table>
 
@@ -561,5 +587,11 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Slatemist/yaho.png" alt="yaho" width="300"/></td>
+    <td><img src="Slatemist/gumb.png" alt="gumb" width="300"/></td>
+    <td><img src="Slatemist/hands-on-face.jpg" alt="hands-on-face" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Slatemist/retrolook.png" alt="retrolook" width="300"/></td>
+    <td><img src="Slatemist/tokyo.jpg" alt="tokyo" width="300"/></td>
   </tr>
 </table>
