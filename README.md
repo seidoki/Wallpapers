@@ -186,9 +186,9 @@ My collections of wallpapers.
   <tr>
     <td><img src="Crimson/redbg/sword-draw.jpg" alt="sword-draw" width="400"/></td>
     <td><img src="Crimson/redbg/SwordSilverHair.png" alt="SwordSilverHair" width="400"/></td>
+    <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="400"/></td>
     <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="400"/></td>
   </tr>
 </table>
@@ -554,7 +554,7 @@ My collections of wallpapers.
     <td><img src="Rosepine/room.png" alt="room" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Rosepine/room\.jpg" alt="room\" width="400"/></td>
+    <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="400"/></td>
     <td><img src="Rosepine/sakurabranch.jpeg" alt="sakurabranch" width="400"/></td>
     <td><img src="Rosepine/shougan2.png" alt="shougan2" width="400"/></td>
   </tr>
@@ -562,9 +562,6 @@ My collections of wallpapers.
     <td><img src="Rosepine/sixarms.jpg" alt="sixarms" width="400"/></td>
     <td><img src="Rosepine/starwars-xwing.png" alt="starwars-xwing" width="400"/></td>
     <td><img src="Rosepine/telefp.jpg" alt="telefp" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="400"/></td>
   </tr>
 </table>
 
