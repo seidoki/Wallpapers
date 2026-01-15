@@ -587,7 +587,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Rosepine/retrocmp.jpg" alt="retrocmp" width="400"/></td>
-    <td><img src="Rosepine/room\.jpg" alt="room\" width="400"/></td>
+    <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="400"/></td>
     <td><img src="Rosepine/sakurabranch.jpeg" alt="sakurabranch" width="400"/></td>
   </tr>
   <tr>
@@ -597,7 +597,6 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Rosepine/telefp.jpg" alt="telefp" width="400"/></td>
-    <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="400"/></td>
   </tr>
 </table>
 
