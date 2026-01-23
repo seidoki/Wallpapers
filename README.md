@@ -73,6 +73,7 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Catppuccin/windows-error2.png" alt="windows-error2" width="400"/></td>
+    <td><img src="Catppuccin/night.jpg" alt="night" width="400"/></td>
   </tr>
 </table>
 
@@ -147,111 +148,14 @@ My collections of wallpapers.
   <tr>
     <td><img src="Everforest/train.jpg" alt="train" width="400"/></td>
     <td><img src="Everforest/treecov.png" alt="treecov" width="400"/></td>
-  </tr>
-</table>
-
-## Autmn
-
-<table>
-  <tr>
-    <td><img src="Autmn/aushed.jpg" alt="aushed" width="400"/></td>
-    <td><img src="Autmn/berries.jpg" alt="berries" width="400"/></td>
-    <td><img src="Autmn/boat.png" alt="boat" width="400"/></td>
+    <td><img src="Everforest/bush.jpg" alt="bush" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Autmn/cityscape.jpg" alt="cityscape" width="400"/></td>
-    <td><img src="Autmn/cls-window.jpg" alt="cls-window" width="400"/></td>
-    <td><img src="Autmn/colors.jpg" alt="colors" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/den.jpg" alt="den" width="400"/></td>
-    <td><img src="Autmn/foothill.jpg" alt="foothill" width="400"/></td>
-    <td><img src="Autmn/forest-road.jpg" alt="forest-road" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/goldenball.jpg" alt="goldenball" width="400"/></td>
-    <td><img src="Autmn/greenland.jpg" alt="greenland" width="400"/></td>
-    <td><img src="Autmn/highway.jpg" alt="highway" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/lianimgrl.png" alt="lianimgrl" width="400"/></td>
-    <td><img src="Autmn/mountain.jpg" alt="mountain" width="400"/></td>
-    <td><img src="Autmn/orange.jpg" alt="orange" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/phawara.jpg" alt="phawara" width="400"/></td>
-    <td><img src="Autmn/redclouds.jpg" alt="redclouds" width="400"/></td>
-    <td><img src="Autmn/rwood.jpg" alt="rwood" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/skyshot.jpg" alt="skyshot" width="400"/></td>
-    <td><img src="Autmn/sunset_moment.jpg" alt="sunset_moment" width="400"/></td>
-    <td><img src="Autmn/sunset.jpg" alt="sunset" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/taipei.jpg" alt="taipei" width="400"/></td>
-    <td><img src="Autmn/train.jpg" alt="train" width="400"/></td>
-    <td><img src="Autmn/tram.jpg" alt="tram" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/trees.jpg" alt="trees" width="400"/></td>
-    <td><img src="Autmn/trn.jpg" alt="trn" width="400"/></td>
-    <td><img src="Autmn/valle.jpg" alt="valle" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/valley.jpg" alt="valley" width="400"/></td>
-    <td><img src="Autmn/waterfall.jpg" alt="waterfall" width="400"/></td>
-    <td><img src="Autmn/wheel.jpg" alt="wheel" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/wlop-10se.jpg" alt="wlop-10se" width="400"/></td>
+    <td><img src="Everforest/closeflower.jpg" alt="closeflower" width="400"/></td>
   </tr>
 </table>
 
 
-## Flexoki
-
-<table>
-  <tr>
-    <td><img src="Flexoki/abst.jpg" alt="abst" width="400"/></td>
-    <td><img src="Flexoki/abstract109.png" alt="abstract109" width="400"/></td>
-    <td><img src="Flexoki/alien.jpg" alt="alien" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/cat-under-blanket.jpg" alt="cat-under-blanket" width="400"/></td>
-    <td><img src="Flexoki/gcat.png" alt="gcat" width="400"/></td>
-    <td><img src="Flexoki/girl-sunlight.jpg" alt="girl-sunlight" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/girlback.jpg" alt="girlback" width="400"/></td>
-    <td><img src="Flexoki/gully.png" alt="gully" width="400"/></td>
-    <td><img src="Flexoki/ice.jpg" alt="ice" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/ichie.jpg" alt="ichie" width="400"/></td>
-    <td><img src="Flexoki/living-room.jpg" alt="living-room" width="400"/></td>
-    <td><img src="Flexoki/lookup.jpeg" alt="lookup" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/ms.jpg" alt="ms" width="400"/></td>
-    <td><img src="Flexoki/patt.jpg" alt="patt" width="400"/></td>
-    <td><img src="Flexoki/perfect.jpg" alt="perfect" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/restur.jpg" alt="restur" width="400"/></td>
-    <td><img src="Flexoki/roses.jpg" alt="roses" width="400"/></td>
-    <td><img src="Flexoki/saber.jpg" alt="saber" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/shinoske.jpg" alt="shinoske" width="400"/></td>
-    <td><img src="Flexoki/shougan.png" alt="shougan" width="400"/></td>
-    <td><img src="Flexoki/wavy.jpg" alt="wavy" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/wlop-34se.jpg" alt="wlop-34se" width="400"/></td>
-    <td><img src="Flexoki/you.jpg" alt="you" width="400"/></td>
-  </tr>
-</table>
 
 ## Gruvbox
 
@@ -298,7 +202,12 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Gruvbox/trees.png" alt="trees" width="400"/></td>
-    <td><img src="Gruvbox/wallhaven-gw58ll.jpg" alt="wallhaven-gw58ll" width="400"/></td>
+    <td><img src="Gruvbox/a_cartoon_of_a_girl_in_a_dress.png" alt="a_cartoon_of_a_girl_in_a_dress" width="400"/></td>
+    <td><img src="Gruvbox/a_painting_of_flowers_in_a_vase.jpg" alt="a_painting_of_flowers_in_a_vase" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Gruvbox/clouds.png" alt="clouds" width="400"/></td>
+    <td><img src="Gruvbox/gold.jpg" alt="gold" width="400"/></td>
   </tr>
 </table>
 
@@ -383,7 +292,126 @@ My collections of wallpapers.
     <td><img src="Kanagawa/vapor-wave.png" alt="vapor-wave" width="400"/></td>
     <td><img src="Kanagawa/wuwadoor.jpeg" alt="wuwadoor" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Kanagawa/an_astronaut_in_space_with_a_satellite.png" alt="an_astronaut_in_space_with_a_satellite" width="400"/></td>
+    <td><img src="Kanagawa/a_planet_in_the_sky.jpg" alt="a_planet_in_the_sky" width="400"/></td>
+    <td><img src="Kanagawa/wayward_clouds.jpg" alt="wayward_clouds" width="400"/></td>
+  </tr>
 </table>
+
+## Autmn
+
+<table>
+  <tr>
+    <td><img src="Autmn/aushed.jpg" alt="aushed" width="400"/></td>
+    <td><img src="Autmn/berries.jpg" alt="berries" width="400"/></td>
+    <td><img src="Autmn/boat.png" alt="boat" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/cityscape.jpg" alt="cityscape" width="400"/></td>
+    <td><img src="Autmn/cls-window.jpg" alt="cls-window" width="400"/></td>
+    <td><img src="Autmn/colors.jpg" alt="colors" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/den.jpg" alt="den" width="400"/></td>
+    <td><img src="Autmn/foothill.jpg" alt="foothill" width="400"/></td>
+    <td><img src="Autmn/forest-road.jpg" alt="forest-road" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/goldenball.jpg" alt="goldenball" width="400"/></td>
+    <td><img src="Autmn/greenland.jpg" alt="greenland" width="400"/></td>
+    <td><img src="Autmn/highway.jpg" alt="highway" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/lianimgrl.png" alt="lianimgrl" width="400"/></td>
+    <td><img src="Autmn/mountain.jpg" alt="mountain" width="400"/></td>
+    <td><img src="Autmn/orange.jpg" alt="orange" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/phawara.jpg" alt="phawara" width="400"/></td>
+    <td><img src="Autmn/redclouds.jpg" alt="redclouds" width="400"/></td>
+    <td><img src="Autmn/rwood.jpg" alt="rwood" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/skyshot.jpg" alt="skyshot" width="400"/></td>
+    <td><img src="Autmn/sunset_moment.jpg" alt="sunset_moment" width="400"/></td>
+    <td><img src="Autmn/sunset.jpg" alt="sunset" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/taipei.jpg" alt="taipei" width="400"/></td>
+    <td><img src="Autmn/train.jpg" alt="train" width="400"/></td>
+    <td><img src="Autmn/tram.jpg" alt="tram" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/trees.jpg" alt="trees" width="400"/></td>
+    <td><img src="Autmn/trn.jpg" alt="trn" width="400"/></td>
+    <td><img src="Autmn/valle.jpg" alt="valle" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/valley.jpg" alt="valley" width="400"/></td>
+    <td><img src="Autmn/waterfall.jpg" alt="waterfall" width="400"/></td>
+    <td><img src="Autmn/wheel.jpg" alt="wheel" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/wlop-10se.jpg" alt="wlop-10se" width="400"/></td>
+    <td><img src="Autmn/a_train_tracks_in_a_tunnel.jpg" alt="a_train_tracks_in_a_tunnel" width="400"/></td>
+    <td><img src="Autmn/khemi.png" alt="khemi" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Autmn/sunset.png" alt="sunset" width="400"/></td>
+  </tr>
+</table>
+
+
+## Flexoki
+
+<table>
+  <tr>
+    <td><img src="Flexoki/abst.jpg" alt="abst" width="400"/></td>
+    <td><img src="Flexoki/abstract109.png" alt="abstract109" width="400"/></td>
+    <td><img src="Flexoki/alien.jpg" alt="alien" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/cat-under-blanket.jpg" alt="cat-under-blanket" width="400"/></td>
+    <td><img src="Flexoki/gcat.png" alt="gcat" width="400"/></td>
+    <td><img src="Flexoki/girl-sunlight.jpg" alt="girl-sunlight" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/girlback.jpg" alt="girlback" width="400"/></td>
+    <td><img src="Flexoki/gully.png" alt="gully" width="400"/></td>
+    <td><img src="Flexoki/ice.jpg" alt="ice" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/ichie.jpg" alt="ichie" width="400"/></td>
+    <td><img src="Flexoki/living-room.jpg" alt="living-room" width="400"/></td>
+    <td><img src="Flexoki/lookup.jpeg" alt="lookup" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/ms.jpg" alt="ms" width="400"/></td>
+    <td><img src="Flexoki/patt.jpg" alt="patt" width="400"/></td>
+    <td><img src="Flexoki/perfect.jpg" alt="perfect" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/restur.jpg" alt="restur" width="400"/></td>
+    <td><img src="Flexoki/roses.jpg" alt="roses" width="400"/></td>
+    <td><img src="Flexoki/saber.jpg" alt="saber" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/shinoske.jpg" alt="shinoske" width="400"/></td>
+    <td><img src="Flexoki/shougan.png" alt="shougan" width="400"/></td>
+    <td><img src="Flexoki/wavy.jpg" alt="wavy" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/wlop-34se.jpg" alt="wlop-34se" width="400"/></td>
+    <td><img src="Flexoki/you.jpg" alt="you" width="400"/></td>
+    <td><img src="Flexoki/drawing.jpg" alt="drawing" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Flexoki/wall.jpg" alt="wall" width="400"/></td>
+    <td><img src="Flexoki/water_droplets_on_a_puddle.png" alt="water_droplets_on_a_puddle" width="400"/></td>
+  </tr>
+</table>
+
 
 ## Oxocarbon
 
@@ -475,6 +503,10 @@ My collections of wallpapers.
   <tr>
     <td><img src="Graphite/who.png" alt="who" width="400"/></td>
     <td><img src="Graphite/wildtexture.jpg" alt="wildtexture" width="400"/></td>
+    <td><img src="Graphite/mob.jpeg" alt="mob" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Graphite/mono-4.jpg" alt="mono-4" width="400"/></td>
   </tr>
 </table>
 
@@ -525,6 +557,8 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Rosepine/telefp.jpg" alt="telefp" width="400"/></td>
+    <td><img src="Rosepine/pink-mecha.png" alt="pink-mecha" width="400"/></td>
+    <td><img src="Rosepine/room.jpg" alt="room" width="400"/></td>
   </tr>
 </table>
 
@@ -532,8 +566,13 @@ My collections of wallpapers.
 
 <table>
   <tr>
-    <td><img src="Slatemist/absnv.jpg" alt="absnv" width="400"/></td>
-    <td><img src="Slatemist/aioc.jpg" alt="aioc" width="400"/></td>
+    <td><img src="Slatemist/a_bouquet_of_flowers_with_green_leaves.jpg" alt="a_bouquet_of_flowers_with_green_leaves" width="400"/></td>
+    <td><img src="Slatemist/a_drawing_of_a_wolf_and_a_lion.png" alt="a_drawing_of_a_wolf_and_a_lion" width="400"/></td>
+    <td><img src="Slatemist/a_girl_standing_on_a_railroad_crossing.png" alt="a_girl_standing_on_a_railroad_crossing" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Slatemist/a_rocket_in_the_sky.png" alt="a_rocket_in_the_sky" width="400"/></td>
+    <td><img src="Slatemist/a_rocky_shore_with_waves_crashing.jpg" alt="a_rocky_shore_with_waves_crashing" width="400"/></td>
     <td><img src="Slatemist/columbina.jpg" alt="columbina" width="400"/></td>
   </tr>
   <tr>
@@ -549,14 +588,15 @@ My collections of wallpapers.
   <tr>
     <td><img src="Slatemist/mrpole.png" alt="mrpole" width="400"/></td>
     <td><img src="Slatemist/nord.png" alt="nord" width="400"/></td>
-    <td><img src="Slatemist/nvabs.png" alt="nvabs" width="400"/></td>
+    <td><img src="Slatemist/nord_mask.png" alt="nord_mask" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/nvabs.png" alt="nvabs" width="400"/></td>
     <td><img src="Slatemist/retrolook.png" alt="retrolook" width="400"/></td>
     <td><img src="Slatemist/sku.jpg" alt="sku" width="400"/></td>
-    <td><img src="Slatemist/swordgarden.jpg" alt="swordgarden" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/swordgarden.jpg" alt="swordgarden" width="400"/></td>
     <td><img src="Slatemist/tokyo.jpg" alt="tokyo" width="400"/></td>
     <td><img src="Slatemist/yaho.png" alt="yaho" width="400"/></td>
   </tr>
@@ -621,6 +661,10 @@ My collections of wallpapers.
     <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/evan_red.png" alt="evan_red" width="400"/></td>
+    <td><img src="Crimson/pumb.jpg" alt="pumb" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Crimson/redbg/csm.jpg" alt="csm" width="400"/></td>
     <td><img src="Crimson/redbg/demon-girl.jpg" alt="demon-girl" width="400"/></td>
     <td><img src="Crimson/redbg/hideye.jpg" alt="hideye" width="400"/></td>
@@ -635,6 +679,7 @@ My collections of wallpapers.
     <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="400"/></td>
     <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="400"/></td>
   </tr>
+
 </table>
 
 
