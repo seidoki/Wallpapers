@@ -407,7 +407,7 @@ My collections of wallpapers.
 <table>
   <tr>
     <td><img src="Oxocarbon/abstract102.png" alt="abstract102" width="400"/></td>
-    <td><img src="Oxocarbon/audio-bunny.png" alt="audio-bunny" width="4-00"/></td>
+    <td><img src="Oxocarbon/audio-bunny.png" alt="audio-bunny" width="400"/></td>
     <td><img src="Oxocarbon/coumbina.jpg" alt="coumbina" width="400"/></td>
   </tr>
   <tr>
