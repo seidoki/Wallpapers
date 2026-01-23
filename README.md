@@ -81,9 +81,9 @@ My collections of wallpapers.
 
 <table>
   <tr>
-    <td><img src="Everforest/4.png" alt="4" width="400"/></td>
     <td><img src="Everforest/alo.jpg" alt="alo" width="400"/></td>
     <td><img src="Everforest/berries.png" alt="berries" width="400"/></td>
+    <td><img src="Everforest/closeflower.jpg" alt="closeflower" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Everforest/bikeal.jpg" alt="bikeal" width="400"/></td>
@@ -126,9 +126,9 @@ My collections of wallpapers.
     <td><img src="Everforest/leavesinrain.jpg" alt="leavesinrain" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Everforest/marsh.jpg" alt="marsh" width="400"/></td>
     <td><img src="Everforest/mistyforest.png" alt="mistyforest" width="400"/></td>
     <td><img src="Everforest/polyscape.png" alt="polyscape" width="400"/></td>
+    <td><img src="Everforest/bush.jpg" alt="bush" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Everforest/pond.jpg" alt="pond" width="400"/></td>
@@ -148,10 +148,6 @@ My collections of wallpapers.
   <tr>
     <td><img src="Everforest/train.jpg" alt="train" width="400"/></td>
     <td><img src="Everforest/treecov.png" alt="treecov" width="400"/></td>
-    <td><img src="Everforest/bush.jpg" alt="bush" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Everforest/closeflower.jpg" alt="closeflower" width="400"/></td>
   </tr>
 </table>
 
@@ -319,8 +315,8 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Autmn/goldenball.jpg" alt="goldenball" width="400"/></td>
-    <td><img src="Autmn/greenland.jpg" alt="greenland" width="400"/></td>
     <td><img src="Autmn/highway.jpg" alt="highway" width="400"/></td>
+    <td><img src="Autmn/sunset.png" alt="sunset" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Autmn/lianimgrl.png" alt="lianimgrl" width="400"/></td>
@@ -357,9 +353,6 @@ My collections of wallpapers.
     <td><img src="Autmn/a_train_tracks_in_a_tunnel.jpg" alt="a_train_tracks_in_a_tunnel" width="400"/></td>
     <td><img src="Autmn/khemi.png" alt="khemi" width="400"/></td>
   </tr>
-  <tr>
-    <td><img src="Autmn/sunset.png" alt="sunset" width="400"/></td>
-  </tr>
 </table>
 
 
@@ -378,8 +371,8 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Flexoki/girlback.jpg" alt="girlback" width="400"/></td>
-    <td><img src="Flexoki/gully.png" alt="gully" width="400"/></td>
     <td><img src="Flexoki/ice.jpg" alt="ice" width="400"/></td>
+    <td><img src="Flexoki/wall.jpg" alt="wall" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Flexoki/ichie.jpg" alt="ichie" width="400"/></td>
@@ -398,17 +391,13 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Flexoki/shinoske.jpg" alt="shinoske" width="400"/></td>
-    <td><img src="Flexoki/shougan.png" alt="shougan" width="400"/></td>
     <td><img src="Flexoki/wavy.jpg" alt="wavy" width="400"/></td>
+    <td><img src="Flexoki/water_droplets_on_a_puddle.png" alt="water_droplets_on_a_puddle" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Flexoki/wlop-34se.jpg" alt="wlop-34se" width="400"/></td>
     <td><img src="Flexoki/you.jpg" alt="you" width="400"/></td>
     <td><img src="Flexoki/drawing.jpg" alt="drawing" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Flexoki/wall.jpg" alt="wall" width="400"/></td>
-    <td><img src="Flexoki/water_droplets_on_a_puddle.png" alt="water_droplets_on_a_puddle" width="400"/></td>
   </tr>
 </table>
 
@@ -476,7 +465,7 @@ My collections of wallpapers.
     <td><img src="Graphite/gojo.png" alt="gojo" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Graphite/gold.jpg" alt="gold" width="400"/></td>
+    <td><img src="Graphite/mono-4.jpg" alt="mono-4" width="400"/></td>
     <td><img src="Graphite/grdrops.jpg" alt="grdrops" width="400"/></td>
     <td><img src="Graphite/grflower.jpg" alt="grflower" width="400"/></td>
   </tr>
@@ -504,9 +493,6 @@ My collections of wallpapers.
     <td><img src="Graphite/who.png" alt="who" width="400"/></td>
     <td><img src="Graphite/wildtexture.jpg" alt="wildtexture" width="400"/></td>
     <td><img src="Graphite/mob.jpeg" alt="mob" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Graphite/mono-4.jpg" alt="mono-4" width="400"/></td>
   </tr>
 </table>
 
@@ -593,12 +579,11 @@ My collections of wallpapers.
   <tr>
     <td><img src="Slatemist/nvabs.png" alt="nvabs" width="400"/></td>
     <td><img src="Slatemist/retrolook.png" alt="retrolook" width="400"/></td>
-    <td><img src="Slatemist/sku.jpg" alt="sku" width="400"/></td>
+    <td><img src="Slatemist/yaho.png" alt="yaho" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Slatemist/swordgarden.jpg" alt="swordgarden" width="400"/></td>
     <td><img src="Slatemist/tokyo.jpg" alt="tokyo" width="400"/></td>
-    <td><img src="Slatemist/yaho.png" alt="yaho" width="400"/></td>
   </tr>
 </table>
 
@@ -613,7 +598,7 @@ My collections of wallpapers.
   <tr>
     <td><img src="Crimson/crsword.jpg" alt="crsword" width="400"/></td>
     <td><img src="Crimson/cyborgred.jpg" alt="cyborgred" width="400"/></td>
-    <td><img src="Crimson/doraggo.jpg" alt="doraggo" width="400"/></td>
+    <td><img src="Crimson/evan_red.png" alt="evan_red" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Crimson/evan.png" alt="evan" width="400"/></td>
@@ -661,7 +646,6 @@ My collections of wallpapers.
     <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/evan_red.png" alt="evan_red" width="400"/></td>
     <td><img src="Crimson/pumb.jpg" alt="pumb" width="400"/></td>
   </tr>
   <tr>
