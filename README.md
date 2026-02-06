@@ -8,54 +8,6 @@ My collections of wallpapers.
 
 ### Tabular view of all wallpapers
 
-## .homeless
-
-<table>
-  <tr>
-    <td><img src=".homeless/a_group_of_flowers_in_a_field_01.jpg" alt="a_group_of_flowers_in_a_field_01" width="400"/></td>
-    <td><img src=".homeless/a_house_with_stairs_leading_to_the_front.png" alt="a_house_with_stairs_leading_to_the_front" width="400"/></td>
-    <td><img src=".homeless/an_astronaut_in_space_with_a_satellite.png" alt="an_astronaut_in_space_with_a_satellite" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/arch.png" alt="arch" width="400"/></td>
-    <td><img src=".homeless/bike-ride.jpeg" alt="bike-ride" width="400"/></td>
-    <td><img src=".homeless/doraggo.jpg" alt="doraggo" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/evangalion.png" alt="evangalion" width="400"/></td>
-    <td><img src=".homeless/fishgrl.jpg" alt="fishgrl" width="400"/></td>
-    <td><img src=".homeless/flower.jpg" alt="flower" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/flowers\.jpg" alt="flowers\" width="400"/></td>
-    <td><img src=".homeless/girlback.jpg" alt="girlback" width="400"/></td>
-    <td><img src=".homeless/greenland.jpg" alt="greenland" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/grl.png" alt="grl" width="400"/></td>
-    <td><img src=".homeless/grved-citytower.jpg" alt="grved-citytower" width="400"/></td>
-    <td><img src=".homeless/gully.png" alt="gully" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/look.jpg" alt="look" width="400"/></td>
-    <td><img src=".homeless/neck.jpg" alt="neck" width="400"/></td>
-    <td><img src=".homeless/redlight.jpg" alt="redlight" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/shougan.png" alt="shougan" width="400"/></td>
-    <td><img src=".homeless/violet-evergarden-eddited.png" alt="violet-evergarden-eddited" width="400"/></td>
-    <td><img src=".homeless/wallhaven-qrre8l.jpg" alt="wallhaven-qrre8l" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/wallhaven-rqq1ww.png" alt="wallhaven-rqq1ww" width="400"/></td>
-    <td><img src=".homeless/wl-op-1s.jpg" alt="wl-op-1s" width="400"/></td>
-    <td><img src=".homeless/wl-op-4s.jpg" alt="wl-op-4s" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src=".homeless/wuthred.jpg" alt="wuthred" width="400"/></td>
-  </tr>
-</table>
-
 ## Autmn
 
 <table>

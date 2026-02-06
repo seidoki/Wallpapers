@@ -8,9 +8,7 @@ def get_filesystem_images(path):
     images = {}
     valid_extensions = ['.png', '.jpg', '.jpeg', '.gif', '.webp']
     
-    theme_dirs = [d for d in os.listdir(path) if os.path.isdir(os.path.join(path, d)) and not d.startswith('.git')]
-    if '.homeless' not in theme_dirs and os.path.isdir(os.path.join(path, '.homeless')):
-        theme_dirs.append('.homeless')
+    theme_dirs = [d for d in os.listdir(path) if os.path.isdir(os.path.join(path, d)) and not d.startswith('.')]
 
     for theme in theme_dirs:
         theme_path = os.path.join(path, theme)
@@ -18,7 +16,7 @@ def get_filesystem_images(path):
             images[theme] = []
         for root, _, files in os.walk(theme_path):
             for file in files:
-                if any(file.lower().endswith(ext) for ext in valid_extensions):
+                if not file.startswith('.') and any(file.lower().endswith(ext) for ext in valid_extensions):
                     full_path = os.path.relpath(os.path.join(root, file), path)
                     # The key in the dictionary should be the top-level theme folder.
                     theme_key = full_path.split(os.path.sep)[0]
