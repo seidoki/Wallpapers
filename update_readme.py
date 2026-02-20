@@ -1,5 +1,5 @@
 # Automated script to update wallpapers in readme
-# AI genrated
+# AI generated
 
 import os
 import re
