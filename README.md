@@ -42,34 +42,34 @@ My collections of wallpapers.
     <td><img src="Autmn/phawara.jpg" alt="phawara" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/pixelbridge.png" alt="pixelbridge" width="400"/></td>
     <td><img src="Autmn/redclouds.jpg" alt="redclouds" width="400"/></td>
     <td><img src="Autmn/rive.jpg" alt="rive" width="400"/></td>
-    <td><img src="Autmn/rwood.jpg" alt="rwood" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/rwood.jpg" alt="rwood" width="400"/></td>
     <td><img src="Autmn/skyshot.jpg" alt="skyshot" width="400"/></td>
     <td><img src="Autmn/sunset.jpg" alt="sunset" width="400"/></td>
-    <td><img src="Autmn/sunset.png" alt="sunset" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/sunset.png" alt="sunset" width="400"/></td>
     <td><img src="Autmn/sunset_moment.jpg" alt="sunset_moment" width="400"/></td>
     <td><img src="Autmn/taipei.jpg" alt="taipei" width="400"/></td>
-    <td><img src="Autmn/train.jpg" alt="train" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/train.jpg" alt="train" width="400"/></td>
     <td><img src="Autmn/tram.jpg" alt="tram" width="400"/></td>
     <td><img src="Autmn/trees.jpg" alt="trees" width="400"/></td>
-    <td><img src="Autmn/trn.jpg" alt="trn" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/trn.jpg" alt="trn" width="400"/></td>
     <td><img src="Autmn/valle.jpg" alt="valle" width="400"/></td>
     <td><img src="Autmn/valley.jpg" alt="valley" width="400"/></td>
-    <td><img src="Autmn/wallhaven-jewvjy.png" alt="wallhaven-jewvjy" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Autmn/wallhaven-qrjdrq.jpg" alt="wallhaven-qrjdrq" width="400"/></td>
     <td><img src="Autmn/waterfall.jpg" alt="waterfall" width="400"/></td>
     <td><img src="Autmn/wheel.jpg" alt="wheel" width="400"/></td>
+    <td><img src="Autmn/whitebloom.jpg" alt="whitebloom" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Autmn/wlop-10se.jpg" alt="wlop-10se" width="400"/></td>
@@ -106,42 +106,42 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Catppuccin/hanged-man-catp.jpg" alt="hanged-man-catp" width="400"/></td>
+    <td><img src="Catppuccin/headshake.jpg" alt="headshake" width="400"/></td>
     <td><img src="Catppuccin/inzsky.png" alt="inzsky" width="400"/></td>
-    <td><img src="Catppuccin/irlinazuma.jpg" alt="irlinazuma" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/irlinazuma.jpg" alt="irlinazuma" width="400"/></td>
     <td><img src="Catppuccin/joyboy-cattp.png" alt="joyboy-cattp" width="400"/></td>
     <td><img src="Catppuccin/kaiju.png" alt="kaiju" width="400"/></td>
-    <td><img src="Catppuccin/kurzgesagt-blackhole.png" alt="kurzgesagt-blackhole" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/kurzgesagt-blackhole.png" alt="kurzgesagt-blackhole" width="400"/></td>
     <td><img src="Catppuccin/kyjumnt.png" alt="kyjumnt" width="400"/></td>
     <td><img src="Catppuccin/math.png" alt="math" width="400"/></td>
-    <td><img src="Catppuccin/monsta.jpg" alt="monsta" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/monsta.jpg" alt="monsta" width="400"/></td>
     <td><img src="Catppuccin/night.jpg" alt="night" width="400"/></td>
     <td><img src="Catppuccin/petals.jpg" alt="petals" width="400"/></td>
-    <td><img src="Catppuccin/pixel-earth.png" alt="pixel-earth" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/pixel-earth.png" alt="pixel-earth" width="400"/></td>
     <td><img src="Catppuccin/pixelcity.png" alt="pixelcity" width="400"/></td>
     <td><img src="Catppuccin/rain_world.png" alt="rain_world" width="400"/></td>
-    <td><img src="Catppuccin/rain_world_1.png" alt="rain_world_1" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/rain_world_1.png" alt="rain_world_1" width="400"/></td>
     <td><img src="Catppuccin/rebellious_tower.png" alt="rebellious_tower" width="400"/></td>
     <td><img src="Catppuccin/sh2-p.png" alt="sh2-p" width="400"/></td>
-    <td><img src="Catppuccin/solar-system.jpg" alt="solar-system" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/solar-system.jpg" alt="solar-system" width="400"/></td>
     <td><img src="Catppuccin/space.jpg" alt="space" width="400"/></td>
     <td><img src="Catppuccin/switch_swirl.jpg" alt="switch_swirl" width="400"/></td>
-    <td><img src="Catppuccin/train-sideview.png" alt="train-sideview" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Catppuccin/train-sideview.png" alt="train-sideview" width="400"/></td>
     <td><img src="Catppuccin/uni-eyes.jpg" alt="uni-eyes" width="400"/></td>
-    <td><img src="Catppuccin/wallhaven-jew6op.jpg" alt="wallhaven-jew6op" width="400"/></td>
     <td><img src="Catppuccin/wcatppmnt.png" alt="wcatppmnt" width="400"/></td>
   </tr>
   <tr>
@@ -174,46 +174,50 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Crimson/keyboard.jpg" alt="keyboard" width="400"/></td>
+    <td><img src="Crimson/mirrors.jpg" alt="mirrors" width="400"/></td>
     <td><img src="Crimson/pumb.jpg" alt="pumb" width="400"/></td>
-    <td><img src="Crimson/queen.jpg" alt="queen" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/queen.jpg" alt="queen" width="400"/></td>
     <td><img src="Crimson/red-star.jpg" alt="red-star" width="400"/></td>
     <td><img src="Crimson/redbg/Sword Black.png" alt="Sword Black" width="400"/></td>
-    <td><img src="Crimson/redbg/SwordSilverHair.png" alt="SwordSilverHair" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/redbg/SwordSilverHair.png" alt="SwordSilverHair" width="400"/></td>
     <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="400"/></td>
     <td><img src="Crimson/redbg/csm.jpg" alt="csm" width="400"/></td>
-    <td><img src="Crimson/redbg/demon-girl.jpg" alt="demon-girl" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/redbg/demon-girl.jpg" alt="demon-girl" width="400"/></td>
     <td><img src="Crimson/redbg/hideye.jpg" alt="hideye" width="400"/></td>
     <td><img src="Crimson/redbg/smoking-nun.jpg" alt="smoking-nun" width="400"/></td>
-    <td><img src="Crimson/redbg/sword-draw.jpg" alt="sword-draw" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/redbg/sword-draw.jpg" alt="sword-draw" width="400"/></td>
     <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="400"/></td>
     <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="400"/></td>
-    <td><img src="Crimson/redcouds.png" alt="redcouds" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/redcouds.png" alt="redcouds" width="400"/></td>
     <td><img src="Crimson/redlamp.jpg" alt="redlamp" width="400"/></td>
     <td><img src="Crimson/redwalk.jpg" alt="redwalk" width="400"/></td>
-    <td><img src="Crimson/rene.jpg" alt="rene" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/rene.jpg" alt="rene" width="400"/></td>
     <td><img src="Crimson/rofi-blossoms.png" alt="rofi-blossoms" width="400"/></td>
     <td><img src="Crimson/space.jpg" alt="space" width="400"/></td>
-    <td><img src="Crimson/strawberries.jpg" alt="strawberries" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/strawberries.jpg" alt="strawberries" width="400"/></td>
     <td><img src="Crimson/whoo.jpg" alt="whoo" width="400"/></td>
     <td><img src="Crimson/wideye.jpg" alt="wideye" width="400"/></td>
-    <td><img src="Crimson/wlop-8se.jpg" alt="wlop-8se" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Crimson/wlop-8se.jpg" alt="wlop-8se" width="400"/></td>
+    <td><img src="Crimson/wlop-winter.png" alt="wlop-winter" width="400"/></td>
     <td><img src="Crimson/wv.png" alt="wv" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="400"/></td>
     <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="400"/></td>
   </tr>
@@ -353,51 +357,55 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Graphite/chainsawman-sketch.png" alt="chainsawman-sketch" width="400"/></td>
+    <td><img src="Graphite/cryon-fire.jpg" alt="cryon-fire" width="400"/></td>
     <td><img src="Graphite/cutout.png" alt="cutout" width="400"/></td>
-    <td><img src="Graphite/dkrand.jpg" alt="dkrand" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/dkrand.jpg" alt="dkrand" width="400"/></td>
     <td><img src="Graphite/dolph.png" alt="dolph" width="400"/></td>
     <td><img src="Graphite/evangalion.png" alt="evangalion" width="400"/></td>
-    <td><img src="Graphite/evengalblood.jpg" alt="evengalblood" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/evengalblood.jpg" alt="evengalblood" width="400"/></td>
     <td><img src="Graphite/eyes.jpg" alt="eyes" width="400"/></td>
     <td><img src="Graphite/flowermono.jpg" alt="flowermono" width="400"/></td>
-    <td><img src="Graphite/flowers.jpg" alt="flowers" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/flowers.jpg" alt="flowers" width="400"/></td>
     <td><img src="Graphite/flyfish.jpg" alt="flyfish" width="400"/></td>
     <td><img src="Graphite/gachikuta.png" alt="gachikuta" width="400"/></td>
-    <td><img src="Graphite/gojo.png" alt="gojo" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/gojo.png" alt="gojo" width="400"/></td>
     <td><img src="Graphite/grdrops.jpg" alt="grdrops" width="400"/></td>
     <td><img src="Graphite/grflower.jpg" alt="grflower" width="400"/></td>
-    <td><img src="Graphite/gundam-anime.jpg" alt="gundam-anime" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/gundam-anime.jpg" alt="gundam-anime" width="400"/></td>
     <td><img src="Graphite/keyboard.jpg" alt="keyboard" width="400"/></td>
     <td><img src="Graphite/mahito.png" alt="mahito" width="400"/></td>
-    <td><img src="Graphite/mob.jpeg" alt="mob" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/mob.jpeg" alt="mob" width="400"/></td>
     <td><img src="Graphite/mono-4.jpg" alt="mono-4" width="400"/></td>
     <td><img src="Graphite/mountain.jpg" alt="mountain" width="400"/></td>
-    <td><img src="Graphite/road.jpg" alt="road" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/road.jpg" alt="road" width="400"/></td>
     <td><img src="Graphite/shougandark.jpg" alt="shougandark" width="400"/></td>
     <td><img src="Graphite/spacesnow.jpg" alt="spacesnow" width="400"/></td>
-    <td><img src="Graphite/sword-draw.jpg" alt="sword-draw" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/sword-draw.jpg" alt="sword-draw" width="400"/></td>
     <td><img src="Graphite/the-stairwell.jpg" alt="the-stairwell" width="400"/></td>
     <td><img src="Graphite/trainjp.jpg" alt="trainjp" width="400"/></td>
-    <td><img src="Graphite/unknowgod.jpg" alt="unknowgod" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Graphite/unknowgod.jpg" alt="unknowgod" width="400"/></td>
     <td><img src="Graphite/venom.jpeg" alt="venom" width="400"/></td>
+    <td><img src="Graphite/weirdojichan.png" alt="weirdojichan" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Graphite/who.png" alt="who" width="400"/></td>
     <td><img src="Graphite/wildtexture.jpg" alt="wildtexture" width="400"/></td>
   </tr>
@@ -422,58 +430,62 @@ My collections of wallpapers.
     <td><img src="Gruvbox/flowers.jpg" alt="flowers" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/gobslayer.png" alt="gobslayer" width="400"/></td>
     <td><img src="Gruvbox/gold.jpg" alt="gold" width="400"/></td>
     <td><img src="Gruvbox/grl-bouke.png" alt="grl-bouke" width="400"/></td>
-    <td><img src="Gruvbox/grub-tree.jpg" alt="grub-tree" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/grub-tree.jpg" alt="grub-tree" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/Statue.png" alt="Statue" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/Toradora.png" alt="Toradora" width="400"/></td>
-    <td><img src="Gruvbox/gruv-minimal/debian-swirl.png" alt="debian-swirl" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/gruv-minimal/debian-swirl.png" alt="debian-swirl" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/dragon.png" alt="dragon" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/gnu.jpg" alt="gnu" width="400"/></td>
-    <td><img src="Gruvbox/gruv-minimal/gruv-abstract-maze.png" alt="gruv-abstract-maze" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/gruv-minimal/gruv-abstract-maze.png" alt="gruv-abstract-maze" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/grv-atro.png" alt="grv-atro" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/lady.png" alt="lady" width="400"/></td>
-    <td><img src="Gruvbox/gruv-minimal/ostree.jpg" alt="ostree" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/gruv-minimal/ostree.jpg" alt="ostree" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/pacman-ghosts.png" alt="pacman-ghosts" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/skull-2.png" alt="skull-2" width="400"/></td>
-    <td><img src="Gruvbox/gruv-minimal/snake.png" alt="snake" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/gruv-minimal/snake.png" alt="snake" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/squares.png" alt="squares" width="400"/></td>
     <td><img src="Gruvbox/gruv-minimal/test1.png" alt="test1" width="400"/></td>
-    <td><img src="Gruvbox/gruvsmoke.jpg" alt="gruvsmoke" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/gruvsmoke.jpg" alt="gruvsmoke" width="400"/></td>
     <td><img src="Gruvbox/grvm.png" alt="grvm" width="400"/></td>
     <td><img src="Gruvbox/lady_.jpg" alt="lady_" width="400"/></td>
-    <td><img src="Gruvbox/light-lio.jpg" alt="light-lio" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Gruvbox/light-lio.jpg" alt="light-lio" width="400"/></td>
+    <td><img src="Gruvbox/lxcomm.png" alt="lxcomm" width="400"/></td>
     <td><img src="Gruvbox/mandalorian.jpg" alt="mandalorian" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Gruvbox/melt-noface.png" alt="melt-noface" width="400"/></td>
     <td><img src="Gruvbox/midsword.jpg" alt="midsword" width="400"/></td>
+    <td><img src="Gruvbox/moh.png" alt="moh" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Gruvbox/moh.png" alt="moh" width="400"/></td>
     <td><img src="Gruvbox/moon-night.png" alt="moon-night" width="400"/></td>
     <td><img src="Gruvbox/neir.png" alt="neir" width="400"/></td>
+    <td><img src="Gruvbox/planets.jpg" alt="planets" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Gruvbox/planets.jpg" alt="planets" width="400"/></td>
     <td><img src="Gruvbox/railway.jpg" alt="railway" width="400"/></td>
+    <td><img src="Gruvbox/skeleton.png" alt="skeleton" width="400"/></td>
     <td><img src="Gruvbox/solar-system.jpg" alt="solar-system" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Gruvbox/trees.png" alt="trees" width="400"/></td>
-    <td><img src="Gruvbox/wallhaven-xe76rl.png" alt="wallhaven-xe76rl" width="400"/></td>
   </tr>
 </table>
 
@@ -542,33 +554,36 @@ My collections of wallpapers.
 <table>
   <tr>
     <td><img src="Oxocarbon/abstract102.png" alt="abstract102" width="400"/></td>
+    <td><img src="Oxocarbon/alien.jpg" alt="alien" width="400"/></td>
     <td><img src="Oxocarbon/audio-bunny.png" alt="audio-bunny" width="400"/></td>
-    <td><img src="Oxocarbon/coumbina.jpg" alt="coumbina" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Oxocarbon/coumbina.jpg" alt="coumbina" width="400"/></td>
     <td><img src="Oxocarbon/cyco.jpg" alt="cyco" width="400"/></td>
     <td><img src="Oxocarbon/flowerssky.jpg" alt="flowerssky" width="400"/></td>
-    <td><img src="Oxocarbon/gojo.png" alt="gojo" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Oxocarbon/gojo.png" alt="gojo" width="400"/></td>
     <td><img src="Oxocarbon/haa.jpg" alt="haa" width="400"/></td>
     <td><img src="Oxocarbon/helmet-grl.jpg" alt="helmet-grl" width="400"/></td>
-    <td><img src="Oxocarbon/ms.png" alt="ms" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Oxocarbon/jelly.jpg" alt="jelly" width="400"/></td>
+    <td><img src="Oxocarbon/ms.png" alt="ms" width="400"/></td>
     <td><img src="Oxocarbon/neonskull.png" alt="neonskull" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Oxocarbon/oxo-evan.jpg" alt="oxo-evan" width="400"/></td>
     <td><img src="Oxocarbon/oxocarbon-evangelion.jpg" alt="oxocarbon-evangelion" width="400"/></td>
+    <td><img src="Oxocarbon/ps4.png" alt="ps4" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Oxocarbon/ps4.png" alt="ps4" width="400"/></td>
     <td><img src="Oxocarbon/skele.png" alt="skele" width="400"/></td>
     <td><img src="Oxocarbon/skeleton.png" alt="skeleton" width="400"/></td>
+    <td><img src="Oxocarbon/tgnnq.jpg" alt="tgnnq" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Oxocarbon/tgnnq.jpg" alt="tgnnq" width="400"/></td>
     <td><img src="Oxocarbon/tgnnq2.jpg" alt="tgnnq2" width="400"/></td>
-    <td><img src="Oxocarbon/wallhaven-poor3j.jpg" alt="wallhaven-poor3j" width="400"/></td>
   </tr>
 </table>
 
@@ -613,6 +628,9 @@ My collections of wallpapers.
   <tr>
     <td><img src="Rosepine/starwars-xwing.png" alt="starwars-xwing" width="400"/></td>
     <td><img src="Rosepine/telefpMd.jpg" alt="telefpMd" width="400"/></td>
+    <td><img src="Rosepine/window.png" alt="window" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Rosepine/windows-error.jpg" alt="windows-error" width="400"/></td>
   </tr>
 </table>
@@ -631,29 +649,29 @@ My collections of wallpapers.
     <td><img src="Slatemist/columbina.jpg" alt="columbina" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/dinner.png" alt="dinner" width="400"/></td>
     <td><img src="Slatemist/flow.jpg" alt="flow" width="400"/></td>
     <td><img src="Slatemist/fly.jpg" alt="fly" width="400"/></td>
-    <td><img src="Slatemist/forest.jpg" alt="forest" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/forest.jpg" alt="forest" width="400"/></td>
     <td><img src="Slatemist/girl-with-cat.png" alt="girl-with-cat" width="400"/></td>
     <td><img src="Slatemist/gumb.png" alt="gumb" width="400"/></td>
-    <td><img src="Slatemist/hands-on-face.jpg" alt="hands-on-face" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/hands-on-face.jpg" alt="hands-on-face" width="400"/></td>
     <td><img src="Slatemist/mrpole.png" alt="mrpole" width="400"/></td>
     <td><img src="Slatemist/nord.png" alt="nord" width="400"/></td>
-    <td><img src="Slatemist/nord_mask.png" alt="nord_mask" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/nord_mask.png" alt="nord_mask" width="400"/></td>
     <td><img src="Slatemist/nvabs.png" alt="nvabs" width="400"/></td>
     <td><img src="Slatemist/retrolook.png" alt="retrolook" width="400"/></td>
-    <td><img src="Slatemist/sparxie.png" alt="sparxie" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Slatemist/sparxie.png" alt="sparxie" width="400"/></td>
     <td><img src="Slatemist/swordgarden.jpg" alt="swordgarden" width="400"/></td>
     <td><img src="Slatemist/tokyo.jpg" alt="tokyo" width="400"/></td>
-    <td><img src="Slatemist/wallhaven-jew65w.png" alt="wallhaven-jew65w" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Slatemist/yaho.png" alt="yaho" width="400"/></td>
