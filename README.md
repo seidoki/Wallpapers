@@ -48,36 +48,40 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Autmn/pixelbridge.png" alt="pixelbridge" width="400"/></td>
+    <td><img src="Autmn/plateau.jpg" alt="plateau" width="400"/></td>
     <td><img src="Autmn/redclouds.jpg" alt="redclouds" width="400"/></td>
-    <td><img src="Autmn/rive.jpg" alt="rive" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/rive.jpg" alt="rive" width="400"/></td>
     <td><img src="Autmn/rwood.jpg" alt="rwood" width="400"/></td>
     <td><img src="Autmn/skyshot.jpg" alt="skyshot" width="400"/></td>
-    <td><img src="Autmn/sunflowers.jpg" alt="sunflowers" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/sunflowers.jpg" alt="sunflowers" width="400"/></td>
     <td><img src="Autmn/sunset.jpg" alt="sunset" width="400"/></td>
     <td><img src="Autmn/sunset_moment.jpg" alt="sunset_moment" width="400"/></td>
-    <td><img src="Autmn/taipei.jpg" alt="taipei" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/taipei.jpg" alt="taipei" width="400"/></td>
     <td><img src="Autmn/train.jpg" alt="train" width="400"/></td>
     <td><img src="Autmn/tram.jpg" alt="tram" width="400"/></td>
-    <td><img src="Autmn/trees.jpg" alt="trees" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/trees.jpg" alt="trees" width="400"/></td>
     <td><img src="Autmn/trn.jpg" alt="trn" width="400"/></td>
     <td><img src="Autmn/vall.jpg" alt="vall" width="400"/></td>
-    <td><img src="Autmn/valle.jpg" alt="valle" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Autmn/valle.jpg" alt="valle" width="400"/></td>
     <td><img src="Autmn/valley.jpg" alt="valley" width="400"/></td>
+    <td><img src="Autmn/valley2.jpg" alt="valley2" width="400"/></td>
+  </tr>
+  <tr>
     <td><img src="Autmn/water.jpg" alt="water" width="400"/></td>
     <td><img src="Autmn/waterfall.jpg" alt="waterfall" width="400"/></td>
+    <td><img src="Autmn/wheel.jpg" alt="wheel" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Autmn/wheel.jpg" alt="wheel" width="400"/></td>
     <td><img src="Autmn/whitebloom.jpg" alt="whitebloom" width="400"/></td>
   </tr>
 </table>
